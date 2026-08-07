@@ -1,0 +1,15 @@
+Distinção essencial entre os níveis de abstração e escopo no desenvolvimento de software.
+
+## Comparativo Rápido
+
+| Aspecto                     | [[Arquitetura de Software]]                                      | [[Design de Software]]                                        |
+| :-------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------ |
+| **Nível de Abstração**      | Alto Nível (Macro)                                               | Baixo Nível (Micro)                                           |
+| **Escopo**                  | Sistema completo / Múltiplos processos                           | Estrutura interna / Processo único                            |
+| **Analogia**                | Planta da casa (planejamento geral)                              | Detalhamento dos cômodos e tubulações                         |
+| **Artefatos / Ferramentas** | Modelos de visão (ex: 4+1), diagramas de implantação/componentes | Mock-ups conceituais, [[Cartões CRC]], [[UML]] (Classes, Sequência) |
+| **Foco Principal**          | Avaliação de [[Atributos de Qualidade]] e trade-offs             | Quebra em componentes específicos para codificação            |
+
+## Complementaridade
+- **Evolução de Carreira:** Um bom [[Design Orientado a Objetos]] (OOD) é a base fundamental para se tornar um arquiteto experiente.
+- **Integridade Conceitual:** Ambos garantem a coesão e consistência do sistema, permitindo o trabalho harmônico em equipes multidisciplinares.

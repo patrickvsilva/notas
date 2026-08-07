@@ -1,0 +1,12 @@
+# # Arquivos de estado e layout da interface (mudam constantemente)
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+# .obsidian/graph.json
+
+# # Cache do Obsidian
+# .obsidian/plugins/*/data.json.bak
+# .obsidian/cache/
+
+# Caso use SOs diferentes
+.DS_Store
+Thumbs.db

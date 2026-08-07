@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "396f5d83da6b7f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90f1b601ea466b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a3913ec5125af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Coursera_Alberta/Encapsulamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulamento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47ea13f67a2cec80",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95c6a55d31fbd301",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "a2010911562078a1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "d70829762b58270a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "594bfc328139d130",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas as propriedades"
+        }
+      },
+      {
+        "id": "7c3e350c47244bf8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "314e9503a6b825db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5e8292ec7070fca3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02_Coursera_Alberta/Cartões CRC.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "3eb61df902863547",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "95ce3ec75668b95a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "79a3913ec5125af3",
+  "lastOpenFiles": [
+    "02_Coursera_Alberta/Cartões CRC.md",
+    "02_Coursera_Alberta/Levantamento de Requisitos.md",
+    "02_Coursera_Alberta/Fluxo de Desenvolvimento de Software.md",
+    "02_Coursera_Alberta/Estudo de Caso - Casa vs Busca de Cursos.md",
+    "02_Coursera_Alberta/Especialização em Design e Arquitetura de Software.md",
+    "02_Coursera_Alberta/Design Técnico.md",
+    "02_Coursera_Alberta/Design de Software.md",
+    "02_Coursera_Alberta/Design Conceitual.md",
+    "02_Coursera_Alberta/Arquitetura vs Design de Software.md",
+    "Atributos de Qualidade.md",
+    "02_Coursera_Alberta/Arquitetura de Software.md"
+  ]
+}
