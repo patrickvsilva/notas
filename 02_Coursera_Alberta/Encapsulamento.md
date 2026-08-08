@@ -1,9 +1,9 @@
-Princípio de design que forma um objeto autocontido ao agrupar dados e comportamentos, expor uma interface pública e restringir o acesso aos detalhes internos.
+Princípio de design que forma um objeto autocontido ao agrupar dados e comportamentos, expor uma interface pública e restringir o acesso aos detalhes internos. É o meio prático de aplicar [[Ocultação de Informação]].
 
 ## Três Ideias
 - **Agrupamento:** Atributos (dados) e métodos (comportamentos) que os manipulam ficam juntos na mesma classe.
-- **Exposição:** Interface pública pela qual outros objetos usam a classe.
-- **Restrição:** Estado e detalhes internos acessíveis apenas de dentro do objeto.
+- **Exposição:** Interface pública pela qual outros objetos usam a classe (o que revelar).
+- **Restrição:** Estado e detalhes internos acessíveis apenas de dentro do objeto (o que esconder) — via [[Modificadores de Acesso]].
 
 ## Relação com Abstração
 - [[Abstração]] decide *quais* atributos e comportamentos são relevantes no contexto.
@@ -11,9 +11,10 @@ Princípio de design que forma um objeto autocontido ao agrupar dados e comporta
 - Cada objeto guarda só o que lhe é relevante (ex: Curso conhece seus alunos; Professor conhece suas disciplinas — não a lista completa da universidade).
 
 ## Na Prática (design + código)
-- No [[Diagrama de Classes]], `-` = privado, `+` = público ([[Visibilidade UML]]).
+- No [[Diagrama de Classes]]: `+` `#` `~` `-` ([[Visibilidade UML]] / [[Modificadores de Acesso]]).
 - Atributos sensíveis ficam privados; o mundo externo passa por métodos aprovados — tipicamente [[Getters e Setters]] (um “portão” que controla *como* e *quando* o dado muda).
 - Getters/setters **não** precisam só ler/escrever: podem validar (ex: só muda o curso se GPA > 2.7). O consumidor não vê a regra — só o contrato ([[Pensamento de Caixa Preta]]).
+- Esconda o que pode mudar (implementação); revele só premissas estáveis da interface ([[Ocultação de Informação]]).
 
 ### Exemplo (`Student`)
 ```
@@ -80,6 +81,8 @@ class Student:
 - **Baixo [[Acoplamento]]:** Conexões óbvias sem “abrir” o módulo (facilidade) — ver [[Complexidade de Design]].
 
 ## Conexões
+- [[Ocultação de Informação]]
+- [[Modificadores de Acesso]]
 - [[Design Orientado a Objetos]]
 - [[Abstração]]
 - [[Visibilidade UML]]
@@ -90,6 +93,7 @@ class Student:
 - [[Complexidade de Design]]
 - [[Acoplamento]]
 - [[Coesão]]
+- [[Separação de Preocupações]]
 - [[Decomposição]]
 - [[Generalização]]
 - [[Tipo Abstrato de Dados]]

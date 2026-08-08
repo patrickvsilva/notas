@@ -7,8 +7,11 @@ Métrica de [[Complexidade de Design]] que captura a **clareza das responsabilid
 ## Exemplo
 - `Sensor` que mede umidade **e** temperatura → **baixa** coesão.
 - `HumiditySensor` + `TemperatureSensor`, cada um com um `get` claro → **alta** coesão (e melhora [[Acoplamento]] para quem usa).
+- `SmartPhone` com câmera + telefone na mesma classe → baixa; extrair partes e coordenar ([[Separação de Preocupações]]) → alta.
 
 ## Conexões
+- [[Separação de Preocupações]]
+- [[Modularidade]]
 - [[Complexidade de Design]]
 - [[Acoplamento]]
 - [[Decomposição]]

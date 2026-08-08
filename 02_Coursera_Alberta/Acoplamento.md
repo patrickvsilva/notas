@@ -12,6 +12,8 @@ Métrica de [[Complexidade de Design]] que captura quão difícil é **conectar*
 - Separar `HumiditySensor.get()` e `TemperatureSensor.get()` → intenção clara → uso **frouxamente acoplado**.
 
 ## Conexões
+- [[Separação de Preocupações]]
+- [[Modularidade]]
 - [[Complexidade de Design]]
 - [[Coesão]]
 - [[Encapsulamento]]

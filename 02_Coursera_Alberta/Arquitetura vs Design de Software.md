@@ -12,4 +12,11 @@ Distinção essencial entre os níveis de abstração e escopo no desenvolviment
 
 ## Complementaridade
 - **Evolução de Carreira:** Um bom [[Design Orientado a Objetos]] (OOD) é a base fundamental para se tornar um arquiteto experiente.
-- **Integridade Conceitual:** Ambos garantem a coesão e consistência do sistema, permitindo o trabalho harmônico em equipes multidisciplinares.
+- **[[Integridade Conceitual]]:** Design e arquitetura bem definidos são blueprints que mantêm o time consistente — como se uma só mente guiasse o trabalho.
+
+## Conexões
+- [[Integridade Conceitual]]
+- [[Arquitetura de Software]]
+- [[Design de Software]]
+- [[Design Orientado a Objetos]]
+- [[Atributos de Qualidade]]

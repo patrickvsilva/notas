@@ -17,7 +17,10 @@ Processo essencial na [[Arquitetura de Software]] para equilibrar atributos de q
 3. **Perspectivas Múltiplas & Reviews:** Evitar consequências não intencionais fazendo sessões de *Design Review* com múltiplos perfis (devs, segurança, stakeholders).
 4. **Prototipagem & Testes:** Testar decisões precocemente (ex: simulação de evacuação de incêndio em casa com grades nas janelas).
 
+> Relacionado: [[Integridade Conceitual]] — às vezes omitir uma feature “boa mas desconectada” é o trade-off certo (Brooks).
+
 ## Conexões
 - [[Arquitetura de Software]]
+- [[Integridade Conceitual]]
 - [[Atributos de Qualidade]]
 - [[Requisitos Não-Funcionais]]

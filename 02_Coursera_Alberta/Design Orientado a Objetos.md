@@ -46,21 +46,25 @@ A modelagem simplifica a complexidade e serve como documentação de design.
 
 ## Princípios Fundamentais (OOM)
 
-Para lidar com a complexidade e atingir qualidades de software (reusabilidade, flexibilidade e manutenibilidade), aplica-se os quatro princípios básicos:
+Para lidar com a complexidade e atingir qualidades de software (reusabilidade, flexibilidade e manutenibilidade), aplica-se o meta-princípio de **[[Separação de Preocupações]]** através de quatro princípios básicos:
 1. **[[Abstração]]**: Focar no essencial, ocultando detalhes.
-2. **[[Encapsulamento]]**: Agrupar dados e comportamentos, expor interface e restringir o interno.
+2. **[[Encapsulamento]]**: Agrupar dados e comportamentos, expor interface e restringir o interno ([[Ocultação de Informação]]).
 3. **[[Decomposição]]**: Dividir o todo em partes com responsabilidades distintas (e vice-versa).
 4. **[[Generalização]]**: Reduzir redundância extraindo o comum (métodos e [[Herança]]); contratos de tipo via [[Interface]].
 
 ## Avaliar a Estrutura
-Com a estrutura modelada, avalie [[Complexidade de Design]] com [[Acoplamento]] (baixo) e [[Coesão]] (alta). Próximo no módulo: modelar comportamentos com diagramas de estado e de sequência.
+Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]] (consistência “como uma só mente”). Próximo no módulo: modelar comportamentos com diagramas de estado e de sequência.
 
 ## Conexões
+- [[Separação de Preocupações]]
+- [[Integridade Conceitual]]
+- [[Modularidade]]
 - [[Especialização em Design e Arquitetura de Software]]
 - [[Evolução dos Paradigmas de Programação]]
 - [[Tipo Abstrato de Dados]]
 - [[Princípio da Menor Surpresa]]
 - [[Design de Software]]
+- [[Arquitetura vs Design de Software]]
 - [[Complexidade de Design]]
 - [[Acoplamento]]
 - [[Coesão]]

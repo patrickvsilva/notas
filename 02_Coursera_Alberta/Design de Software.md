@@ -6,11 +6,12 @@ Visão micro e detalhada do software, orientando a estrutura interna operando co
 3. **[[Design Técnico]]:** Especificação detalhada em [[UML]] (o COMO; diagramas de classes e sequência) até a granularidade de codificação.
 
 ## Fundamentos
-- Baseado em [[Design Orientado a Objetos]] (OOD) e avaliação de estrutura via [[Complexidade de Design]] ([[Acoplamento]], [[Coesão]]); depois princípios como SOLID.
+- Baseado em [[Design Orientado a Objetos]] (OOD) e avaliação de estrutura via [[Complexidade de Design]] ([[Acoplamento]], [[Coesão]]); [[Integridade Conceitual]] para consistência de time; depois princípios como SOLID.
 
 ## Conexões
 - [[Arquitetura vs Design de Software]]
 - [[Arquitetura de Software]]
+- [[Integridade Conceitual]]
 - [[Fluxo de Desenvolvimento de Software]]
 - [[Complexidade de Design]]
 - [[Acoplamento]]

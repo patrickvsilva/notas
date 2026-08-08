@@ -26,6 +26,8 @@ Do mais frouxo ao mais rígido:
 - **Reutilização e paralelismo:** partes bem delimitadas podem ser reaproveitadas e desenvolvidas em paralelo.
 
 ## Conexões
+- [[Separação de Preocupações]]
+- [[Modularidade]]
 - [[Design Orientado a Objetos]]
 - [[Associação]]
 - [[Agregação]]

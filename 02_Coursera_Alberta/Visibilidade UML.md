@@ -1,20 +1,26 @@
-Notação no [[Diagrama de Classes]] que indica quem pode acessar um atributo ou operação — expressão visual do [[Encapsulamento]] (e, com `#`, do acesso às subclasses na [[Herança]]).
+Notação no [[Diagrama de Classes]] que indica quem pode acessar um atributo ou operação — expressão visual de [[Ocultação de Informação]] / [[Encapsulamento]] (e, com `#`, do acesso às subclasses na [[Herança]]).
 
 ## Símbolos
-| Símbolo | Acesso | Significado |
+| Símbolo | Acesso (Java) | Significado |
 |---|---|---|
-| `+` | público | Acessível de fora da classe |
-| `-` | privado | Acessível só de dentro da classe |
-| `#` | protegido | Classe + **subclasses** (+ mesmo pacote, em Java) |
+| `+` | `public` | Qualquer classe |
+| `#` | `protected` | Classe + subclasses + mesmo pacote |
+| `~` | default (sem modificador) | Só o mesmo pacote |
+| `-` | `private` | Só a própria classe |
 
 ## No Código
 | UML | Java | Python |
 |---|---|---|
-| `+` | `public` | sem underscore (público por padrão) |
-| `-` | `private` | `_nome` forte / convenção de privado |
-| `#` | `protected` | `_nome` (convenção; subclasses “podem” usar) |
+| `+` | `public` | `nome` |
+| `#` | `protected` | `_nome` (convenção) |
+| `~` | *(sem modificador)* | — (sem equivalente direto) |
+| `-` | `private` | `_nome` / `__nome` |
+
+Detalhe dos quatro níveis: [[Modificadores de Acesso]].
 
 ## Conexões
+- [[Modificadores de Acesso]]
+- [[Ocultação de Informação]]
 - [[Diagrama de Classes]]
 - [[Encapsulamento]]
 - [[Herança]]

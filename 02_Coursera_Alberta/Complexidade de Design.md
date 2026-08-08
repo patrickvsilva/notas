@@ -13,7 +13,11 @@ Métricas e diretrizes para avaliar se a estrutura do software permanece **flex�
 ## Trade-off
 Simplificar módulos (↑ coesão) pode ↑ dependências entre eles (↑ acoplamento). Simplificar conexões (↓ acoplamento) pode forçar um módulo a acumular responsabilidades (↓ coesão). A complexidade do sistema se redistribui — o design busca o equilíbrio.
 
+[[Separação de Preocupações]] tipicamente ↑ [[Coesão]] e [[Modularidade]] ao preço de algum ↑ [[Acoplamento]] (ex: coordenador que depende de interfaces das partes).
+
 ## Conexões
+- [[Separação de Preocupações]]
+- [[Modularidade]]
 - [[Acoplamento]]
 - [[Coesão]]
 - [[Design Orientado a Objetos]]

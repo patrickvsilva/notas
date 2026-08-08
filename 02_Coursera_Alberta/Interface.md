@@ -53,8 +53,10 @@ class Dog:
 - Precisa de **contrato compartilhado** e implementações diferentes ([[Polimorfismo]]) sem herdar estado/código.
 - Precisa de **múltiplos tipos** sem [[Herança Múltipla]] de classes (Java).
 - Não use para “juntar métodos num balde grande” — só quando classes relacionadas devam trabalhar de forma consistente sob o mesmo tipo.
+- Contribui para [[Integridade Conceitual]]: mesmo contrato → comportamentos previsíveis entre implementações.
 
 ## Conexões
+- [[Integridade Conceitual]]
 - [[Subtipagem]]
 - [[Polimorfismo]]
 - [[Herança de Implementação]]

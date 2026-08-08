@@ -1,4 +1,4 @@
-Métodos públicos que formam o “portão” de acesso a atributos privados — leem (getter) ou alteram (setter) o estado de forma controlada, preservando a integridade dos dados ([[Encapsulamento]]).
+Métodos públicos que formam o “portão” de acesso a atributos privados — leem (getter) ou alteram (setter) o estado de forma controlada, preservando a integridade dos dados ([[Encapsulamento]] / [[Ocultação de Informação]]).
 
 ## Convenção de Nome
 - **Getter:** `get` + NomeDoAtributo → retorna o valor (ex: `getGpa()`).
@@ -9,7 +9,9 @@ Métodos públicos que formam o “portão” de acesso a atributos privados —
 - O mundo externo não precisa saber dessas regras — só que o método cumpre o contrato ([[Pensamento de Caixa Preta]]).
 
 ## Conexões
+- [[Ocultação de Informação]]
 - [[Encapsulamento]]
+- [[Modificadores de Acesso]]
 - [[Visibilidade UML]]
 - [[Diagrama de Classes]]
 - [[Pensamento de Caixa Preta]]

@@ -12,7 +12,7 @@ Diagrama [[UML]] que representa uma [[Abstração]] como classe, com detalhe pr�
 ```
 - **Propriedades:** nome + tipo (primitivo ou classe). Em Python o tipo é opcional (anotações).
 - **Operações:** nome + parâmetros + tipo de retorno.
-- **[[Visibilidade UML]]:** `+` público, `-` privado — aplica [[Encapsulamento]] no diagrama.
+- **[[Visibilidade UML]]:** `+` `#` `~` `-` — [[Ocultação de Informação]] / [[Encapsulamento]] no diagrama ([[Modificadores de Acesso]]).
 
 ## Mapeamento ↔ Código
 | Diagrama | Java | Python |
@@ -20,7 +20,7 @@ Diagrama [[UML]] que representa uma [[Abstração]] como classe, com detalhe pr�
 | Nome da classe | `class Nome` | `class Nome:` |
 | Propriedade | variável de membro | atributo (`self.x` / `self._x`) |
 | Operação | método | método (`def`, com `self`) |
-| `+` / `-` | `public` / `private` | público / `_privado` (convenção) |
+| `+` / `#` / `~` / `-` | `public` / `protected` / default / `private` | ver [[Modificadores de Acesso]] |
 
 Conversão inversa: identificar classe → propriedades a partir dos atributos → operações a partir dos métodos (com params e retorno).
 
@@ -93,6 +93,8 @@ Detalhes e código: ver [[Generalização]] / [[Herança]] / [[Interface]].
 - [[Cartões CRC]]
 - [[Abstração]]
 - [[Encapsulamento]]
+- [[Ocultação de Informação]]
+- [[Modificadores de Acesso]]
 - [[Visibilidade UML]]
 - [[Getters e Setters]]
 - [[Decomposição]]
