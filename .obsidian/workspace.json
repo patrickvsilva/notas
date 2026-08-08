@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Coursera_Alberta/Separação de Preocupações.md",
+                "file": "01_CS50/Unicode.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Separação de Preocupações"
+              "title": "Unicode"
             }
           }
         ]
@@ -190,6 +190,22 @@
   },
   "active": "d7e2a48c3d724c13",
   "lastOpenFiles": [
+    "01_CS50/Sistema Binário.md",
+    "01_CS50/Scratch.md",
+    "01_CS50/Rubber Duck Debugging.md",
+    "01_CS50/RGB e Pixels.md",
+    "01_CS50/Resolução de Problemas.md",
+    "01_CS50/Pseudocódigo.md",
+    "01_CS50/Loop.md",
+    "01_CS50/Função.md",
+    "01_CS50/Expressão Booleana.md",
+    "01_CS50/Eficiência de Algoritmos.md",
+    "01_CS50/CS50.md",
+    "01_CS50/Condicional.md",
+    "01_CS50/Bit e Byte.md",
+    "01_CS50/ASCII.md",
+    "01_CS50/Algoritmo.md",
+    "02_Coursera_Alberta/Separação de Preocupações.md",
     "02_Coursera_Alberta/Diagrama de Classes.md",
     "02_Coursera_Alberta/Encapsulamento.md",
     "02_Coursera_Alberta/Interface.md",
@@ -200,25 +216,9 @@
     "02_Coursera_Alberta/Diagrama de Sequência.md",
     "02_Coursera_Alberta/Princípio de Substituição de Liskov.md",
     "02_Coursera_Alberta/Design Orientado a Objetos.md",
-    "02_Coursera_Alberta/Design de Software.md",
-    "Templates/Conceito Design.md",
-    "2026-08-07.md",
     "Sem título.canvas",
-    "02_Coursera_Alberta/Unificação de Conceitos.md",
     "Templates",
-    "02_Coursera_Alberta/Integridade Conceitual.md",
-    "02_Coursera_Alberta/Ocultação de Informação.md",
-    "02_Coursera_Alberta/Modularidade.md",
-    "02_Coursera_Alberta/Modificadores de Acesso.md",
-    "02_Coursera_Alberta/Separação de Preocupações.md",
-    "02_Coursera_Alberta/Complexidade de Design.md",
-    "02_Coursera_Alberta/Coesão.md",
-    "02_Coursera_Alberta/Acoplamento.md",
     "Sem título.base",
-    "Débito Técnico.md",
-    "02_Coursera_Alberta/Fluxo de Desenvolvimento de Software.md",
-    "02_Coursera_Alberta/Herança de Implementação.md",
-    "02_Coursera_Alberta/Herança Múltipla.md",
     "03_Conceitos_Gerais",
     "02_Coursera_Alberta",
     "01_MBA_UTFPR"

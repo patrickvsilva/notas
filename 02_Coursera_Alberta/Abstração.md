@@ -12,6 +12,7 @@ Processo de simplificar um conceito do domínio do problema focando apenas nos s
   - *Representação:* no design, a classe aparece no [[Diagrama de Classes]]; depois vira código.
 - **[[Princípio da Menor Surpresa]] (Rule of Least Astonishment):** A abstração deve capturar apenas o que é estritamente esperado para o conceito, sem incluir atributos ou métodos fora do seu escopo de atuação.
 - **Natureza Dinâmica:** Abstrações não são estáticas. Se as necessidades do negócio ou o problema mudarem, a abstração deve ser atualizada para refletir o novo contexto.
+- **Camadas (CS50):** bits → instruções de CPU → C → Python/APIs → o que você monta; cada nível esconde o de baixo ([[CS50]], [[Função]] Scratch “meow”).
 
 ## Benefícios
 - **Redução de Complexidade:** Permite focar no essencial de alto nível sem poluição visual ou lógica de detalhes secundários.
@@ -24,6 +25,8 @@ Processo de simplificar um conceito do domínio do problema focando apenas nos s
 
 ## Conexões
 - [[Design Orientado a Objetos]]
+- [[CS50]]
+- [[Função]]
 - [[Princípio da Menor Surpresa]]
 - [[Encapsulamento]]
 - [[Decomposição]]
