@@ -9,6 +9,10 @@ Relação entre tipos: um **subtipo** é utilizável onde o **supertipo** é esp
 
 Em ambos, um `Dog` pode ser usado onde o programa espera o tipo animal.
 
+## Quando
+- **Usar:** quando o subtipo pode substituir o supertipo em qualquer uso esperado.
+- **Evitar:** se o subtipo quebra o contrato do supertipo (não é substituível de verdade).
+
 ## Conexões
 - [[Interface]]
 - [[Herança]]

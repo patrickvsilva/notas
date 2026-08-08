@@ -14,7 +14,11 @@ public class Person implements ISpeaker, IGreeter {
 }
 ```
 
-> Em Python (e C++), herança múltipla de classes *é* possível — com trade-offs (ex: MRO). No curso, o modelo de referência é o do Java.
+> Em C++, herança múltipla de classes *é* possível — com trade-offs. No curso, o modelo de referência é o do Java.
+
+## Quando
+- **Usar:** (em linguagens que permitem) quando há múltiplos *é-um* com implementação.
+- **NÃO usar:** em Java para classes — use várias [[Interface|interfaces]] (`implements`).
 
 ## Conexões
 - [[Interface]]

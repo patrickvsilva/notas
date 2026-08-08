@@ -6,6 +6,10 @@ Unix: recursos diversos são vistos e manipulados **como arquivos**, com o mesmo
 ## Efeito
 Menos ramificações ad hoc no design; o time aplica o mesmo modelo mental em mais lugares.
 
+## Quando
+- **Usar:** quando um modelo comum elimina casos especiais e aumenta consistência.
+- **Evitar:** unificar o que não compartilha comportamento real (falsa analogia).
+
 ## Conexões
 - [[Integridade Conceitual]]
 - [[Abstração]]

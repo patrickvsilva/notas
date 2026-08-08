@@ -8,6 +8,10 @@ Métodos públicos que formam o “portão” de acesso a atributos privados —
 - Podem validar, rejeitar ou transformar valores (ex: `setDegreeProgram` só aceita se GPA > 2.7; `setGpa` rejeita nota fora da escala 0–4).
 - O mundo externo não precisa saber dessas regras — só que o método cumpre o contrato ([[Pensamento de Caixa Preta]]).
 
+## Quando
+- **Usar:** para ler/alterar estado privado com validação e regras de integridade.
+- **Evitar:** getters/setters vazios que só expõem campos — encapsulamento de fachada.
+
 ## Conexões
 - [[Ocultação de Informação]]
 - [[Encapsulamento]]

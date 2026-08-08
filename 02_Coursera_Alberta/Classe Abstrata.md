@@ -1,10 +1,8 @@
 Classe que generaliza um conceito mas **não pode ser instanciada** diretamente — só através de subclasses concretas. Expressa que o tipo é incompleto ou genérico demais para existir sozinho (ex: `Animal`).
 
 ## No Código
-| | Java | Python |
-|---|---|---|
-| Declaração | `abstract class Animal` | `class Animal(ABC):` |
-| Efeito | `new Animal()` é ilegal | instanciar `Animal()` falha se abstrata de fato |
+- Declaração: `abstract class Animal`
+- Efeito: `new Animal()` é ilegal
 
 Atributos e métodos concretos na abstrata ainda são herdados pelas subclasses ([[Herança]]). Como [[Interface]], é um meio de obter [[Polimorfismo]] (mesmo contrato, implementações nas subclasses).
 
@@ -16,6 +14,10 @@ Atributos e métodos concretos na abstrata ainda são herdados pelas subclasses 
 | Herança múltipla (Java) | não (`extends` um) | sim (`implements` vários) |
 
 \*Em Java moderno há `default` methods; o curso trata a interface clássica (só contrato).
+
+## Quando
+- **Usar:** base parcial compartilhada que não deve ser instanciada sozinha.
+- **Evitar:** se só há contrato sem implementação/estado — use [[Interface]].
 
 ## Conexões
 - [[Herança]]

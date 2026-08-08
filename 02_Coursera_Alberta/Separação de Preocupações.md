@@ -36,21 +36,12 @@ public class SmartPhone {
 }
 ```
 
-```python
-class SmartPhone:
-    def __init__(self, camera: Camera, phone: Phone):
-        self._camera = camera
-        self._phone = phone
-
-    def take_photo(self) -> None:
-        self._camera.capture()
-
-    def call(self, number: str) -> None:
-        self._phone.dial(number)
-```
-
 ## Meta
 Código flexível, reutilizável e manutenível: cada classe contém só o necessário para o seu trabalho; partes trocáveis sem reescrever o sistema.
+
+## Quando
+- **Usar:** para isolar cada preocupação e ganhar [[Modularidade]] / alta [[Coesão]].
+- **Evitar:** fragmentar demais (overengineering) ou criar dependências só por separar.
 
 ## Conexões
 - [[Design Orientado a Objetos]]

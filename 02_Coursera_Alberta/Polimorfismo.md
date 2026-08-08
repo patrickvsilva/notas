@@ -8,6 +8,10 @@ Dois (ou mais) tipos compartilham a **mesma descrição** de um comportamento, m
 ## Como obter (Java)
 - Via [[Interface]] (`implements`) ou via herança / [[Classe Abstrata]] com [[Sobrescrita de Método]].
 
+## Quando
+- **Usar:** quando vários tipos compartilham o mesmo contrato com implementações diferentes.
+- **Evitar:** quando o comportamento deve ser único/fixo — polimorfismo só adiciona indireção.
+
 ## Conexões
 - [[Interface]]
 - [[Subtipagem]]

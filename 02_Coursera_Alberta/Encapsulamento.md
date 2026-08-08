@@ -50,35 +50,16 @@ public class Student {
 }
 ```
 
-```python
-class Student:
-    def __init__(self):
-        self._gpa = 0.0
-        self._degree_program = ""
-
-    def get_gpa(self) -> float:
-        return self._gpa
-
-    def set_gpa(self, gpa: float) -> None:
-        if 0 <= gpa <= 4.0:
-            self._gpa = gpa
-
-    def get_degree_program(self) -> str:
-        return self._degree_program
-
-    def set_degree_program(self, program: str) -> None:
-        if self._gpa > 2.7:
-            self._degree_program = program
-```
-
-> Em Python, `_attr` é convenção de “privado” (não há `private` como em Java).
-
 ## Benefícios
 - **Integridade dos Dados:** Estado só muda via métodos, preservando invariantes e dependências internas.
 - **Informação Sensível:** Pode responder consultas derivadas (ex: "em boa situação?") sem revelar o valor bruto (ex: GPA).
 - **Mudanças Isoladas:** Interface estável; implementação pode mudar sem afetar consumidores ([[Pensamento de Caixa Preta]], [[Barreira de Abstração]]).
 - **Reutilização:** Consumidores precisam só da assinatura dos métodos (entradas, saídas e efeitos).
 - **Baixo [[Acoplamento]]:** Conexões óbvias sem “abrir” o módulo (facilidade) — ver [[Complexidade de Design]].
+
+## Quando
+- **Usar:** para proteger invariantes e controlar como o estado muda.
+- **Evitar:** campos públicos ou getters/setters vazios como encapsulamento de fachada.
 
 ## Conexões
 - [[Ocultação de Informação]]

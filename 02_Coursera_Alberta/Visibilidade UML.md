@@ -9,12 +9,12 @@ Notação no [[Diagrama de Classes]] que indica quem pode acessar um atributo ou
 | `-` | `private` | Só a própria classe |
 
 ## No Código
-| UML | Java | Python |
-|---|---|---|
-| `+` | `public` | `nome` |
-| `#` | `protected` | `_nome` (convenção) |
-| `~` | *(sem modificador)* | — (sem equivalente direto) |
-| `-` | `private` | `_nome` / `__nome` |
+| UML | Java |
+|---|---|
+| `+` | `public` |
+| `#` | `protected` |
+| `~` | *(sem modificador)* |
+| `-` | `private` |
 
 Detalhe dos quatro níveis: [[Modificadores de Acesso]].
 

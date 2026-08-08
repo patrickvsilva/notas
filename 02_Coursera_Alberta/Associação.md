@@ -22,13 +22,11 @@ public class Student {
 }
 ```
 
-```python
-class Student:
-    def play(self, sport: "Sport") -> None:
-        sport.start()
-```
-
 O `Sport` é passado/usado; o `Student` não guarda posse exclusiva dele.
+
+## Quando
+- **Usar:** interação frouxa entre objetos independentes, sem posse estrutural.
+- **Evitar:** se há *has-a* real (posse) — use [[Agregação]] ou [[Composição]].
 
 ## Conexões
 - [[Decomposição]]

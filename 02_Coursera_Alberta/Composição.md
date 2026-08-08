@@ -25,13 +25,11 @@ public class Human {
 }
 ```
 
-```python
-class Human:
-    def __init__(self):
-        self._brain = Brain()
-```
-
 O `Brain` nasce no construtor do `Human`; não é passado de fora nem compartilhado.
+
+## Quando
+- **Usar:** *has-a* forte e exclusivo, com lifetimes acoplados.
+- **Evitar:** se as partes precisam ser compartilhadas ou reutilizadas fora do todo — use [[Agregação]].
 
 ## Conexões
 - [[Decomposição]]

@@ -10,10 +10,9 @@ Métricas e diretrizes para avaliar se a estrutura do software permanece **flex�
 | [[Acoplamento]] | Complexidade **entre** o módulo e outros | **Baixo** / frouxo (Lego, não quebra-cabeça) |
 | [[Coesão]] | Complexidade **dentro** do módulo | **Alta** (um propósito claro) |
 
-## Trade-off
-Simplificar módulos (↑ coesão) pode ↑ dependências entre eles (↑ acoplamento). Simplificar conexões (↓ acoplamento) pode forçar um módulo a acumular responsabilidades (↓ coesão). A complexidade do sistema se redistribui — o design busca o equilíbrio.
-
-[[Separação de Preocupações]] tipicamente ↑ [[Coesão]] e [[Modularidade]] ao preço de algum ↑ [[Acoplamento]] (ex: coordenador que depende de interfaces das partes).
+## Quando
+- **Usar:** [[Acoplamento]] baixo + [[Coesão]] alta para equilibrar flexibilidade e clareza.
+- **Evitar:** otimizar só um lado — ↓ acoplamento pode ↓ coesão e vice-versa (a complexidade se redistribui).
 
 ## Conexões
 - [[Separação de Preocupações]]

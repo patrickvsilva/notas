@@ -25,6 +25,10 @@ Do mais frouxo ao mais rígido:
 - **Responsabilidades claras:** facilita manutenção e raciocínio local.
 - **Reutilização e paralelismo:** partes bem delimitadas podem ser reaproveitadas e desenvolvidas em paralelo.
 
+## Quando
+- **Usar:** para partir um todo complexo em partes com responsabilidades distintas.
+- **Evitar:** decompor sem decidir ciclo de vida, cardinalidade e compartilhamento.
+
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Modularidade]]

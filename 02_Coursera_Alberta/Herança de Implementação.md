@@ -7,6 +7,10 @@ Tipo de [[Herança]] em que a subclasse herda a **implementação** (atributos e
 
 Para múltiplos tipos sem herdar implementação de várias classes: [[Interface]] (`implements`) — ver [[Herança Múltipla]].
 
+## Quando
+- **Usar:** quando subclasses compartilham estado/código concreto via `extends` e *é-um*.
+- **Evitar:** se só precisa de contrato compartilhado — use [[Interface]].
+
 ## Conexões
 - [[Herança]]
 - [[Interface]]

@@ -12,14 +12,9 @@ Mecanismo de linguagem para aplicar [[Ocultação de Informação]] / [[Encapsul
 - Método `public`: outros **chamam** e recebem o resultado; **não** alteram a implementação (ela continua oculta).
 - Atributo `public`: outros podem ler **e** modificar direto — use com parcimônia.
 
-## Python (paralelo)
-| Intenção | Convenção |
-|---|---|
-| Público | `nome` |
-| “Protegido” / interno | `_nome` |
-| “Privado” (name mangling) | `__nome` |
-
-Não há enforcement igual ao Java; a disciplina do time + tipos/`Protocol` ajudam.
+## Quando
+- **Usar:** o nível mais restritivo que ainda permite o uso legítimo (ex: `-` + getters).
+- **Evitar:** atributos `public` — qualquer um altera o estado sem controle.
 
 ## Conexões
 - [[Ocultação de Informação]]

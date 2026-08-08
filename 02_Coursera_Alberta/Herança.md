@@ -16,12 +16,12 @@ Seta sólida com ponta triangular aberta: **cabeça = superclasse**, **cauda = s
 ```
 
 ## Na Prática (código)
-| Conceito | Java | Python |
-|---|---|---|
-| Herdar | `class Dog extends Animal` | `class Dog(Animal):` |
-| Chamar super | `super(...)` | `super().__init__(...)` |
-| Não instanciar a geral | `abstract class` ([[Classe Abstrata]]) | `ABC` / `@abstractmethod` |
-| Atributo para subclasses | `protected` → `#` no UML ([[Visibilidade UML]]) | `_nome` (convenção) |
+| Conceito | Java |
+|---|---|
+| Herdar | `class Dog extends Animal` |
+| Chamar super | `super(...)` |
+| Não instanciar a geral | `abstract class` ([[Classe Abstrata]]) |
+| Atributo para subclasses | `protected` → `#` no UML ([[Visibilidade UML]]) |
 
 - Se a superclasse tem **construtor explícito**, a subclasse deve chamá-lo (`super`) para inicializar os atributos herdados.
 - Em Java: **herança simples** — uma subclasse, uma só superclasse; uma superclasse pode ter muitas subclasses. A cadeia pode descer vários níveis.
@@ -67,28 +67,10 @@ public class Dog extends Animal {
 }
 ```
 
-```python
-from abc import ABC
+## Quando
+- **Usar:** relação *é-um* verdadeira + reuso de implementação compartilhada.
+- **NÃO usar:** só para reutilizar código sem *é-um* — prefira colaboração ou [[Interface]].
 
-class Animal(ABC):
-    def __init__(self, legs: int):
-        self._legs = legs
-
-    def walk(self) -> None:
-        print("walking")
-
-class Dog(Animal):
-    def __init__(self):
-        super().__init__(4)
-
-    def walk(self) -> None:
-        print("I'd rather lay on the couch")
-
-    def play_fetch(self) -> None:
-        ...
-```
-
-> Em Python, `ABC` sozinho não impede instanciação; use `@abstractmethod` quando quiser o mesmo efeito do `abstract` do Java.
 ## Conexões
 - [[Generalização]]
 - [[Herança de Implementação]]

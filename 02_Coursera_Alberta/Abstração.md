@@ -18,6 +18,10 @@ Processo de simplificar um conceito do domínio do problema focando apenas nos s
 - **Classes Focadas e Sucintas:** Facilita a leitura, manutenção e compreensão do código por outros desenvolvedores.
 - **Alinhamento com o Domínio:** Facilita a comunicação entre stakeholders e equipe técnica ao utilizar a linguagem do contexto.
 
+## Quando
+- **Usar:** para simplificar o domínio ao essencial de um contexto específico.
+- **Evitar:** detalhes irrelevantes ou misturar perspectivas de contextos diferentes.
+
 ## Conexões
 - [[Design Orientado a Objetos]]
 - [[Princípio da Menor Surpresa]]

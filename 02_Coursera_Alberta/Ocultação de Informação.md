@@ -15,6 +15,10 @@ Ex: `String.concat(...)` — você usa a assinatura; não depende de como a conc
 ## Também vale para atributos
 Dados críticos ao comportamento da classe não devem ser alteráveis direto de fora — só por canais aprovados ([[Getters e Setters]]).
 
+## Quando
+- **Usar:** para revelar só o contrato estável e esconder o que pode mudar.
+- **Evitar:** expor detalhes internos de que outros módulos passam a depender.
+
 ## Conexões
 - [[Encapsulamento]]
 - [[Modificadores de Acesso]]

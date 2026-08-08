@@ -5,10 +5,14 @@ A subclasse fornece sua **própria implementação** de um método herdado da su
 - Ex: `Animal.walk()` imprime “walking”; `Dog.walk()` imprime que prefere o sofá.
 
 ## No Código
-| | Java | Python |
-|---|---|---|
-| Marca | `@Override` (recomendado) | redefinir o método com o mesmo nome |
-| Ainda pode chamar o original | `super.walk()` | `super().walk()` |
+| | Java |
+|---|---|
+| Marca | `@Override` (recomendado) |
+| Ainda pode chamar o original | `super.walk()` |
+
+## Quando
+- **Usar:** para especializar o *como* de um método herdado sem mudar a assinatura.
+- **Evitar:** alterar o contrato ou surpreender quem usa o tipo da superclasse.
 
 ## Conexões
 - [[Herança]]

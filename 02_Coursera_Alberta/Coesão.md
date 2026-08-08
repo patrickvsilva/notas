@@ -9,6 +9,10 @@ Métrica de [[Complexidade de Design]] que captura a **clareza das responsabilid
 - `HumiditySensor` + `TemperatureSensor`, cada um com um `get` claro → **alta** coesão (e melhora [[Acoplamento]] para quem usa).
 - `SmartPhone` com câmera + telefone na mesma classe → baixa; extrair partes e coordenar ([[Separação de Preocupações]]) → alta.
 
+## Quando
+- **Usar:** buscar coesão alta — um propósito claro por módulo.
+- **Evitar:** misturar propósitos — e lembrar: ↑ coesão via divisão pode ↑ [[Acoplamento]].
+
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Modularidade]]

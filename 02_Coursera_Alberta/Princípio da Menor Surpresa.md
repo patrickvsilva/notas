@@ -11,6 +11,10 @@ Princípio de design (Rule of Least Astonishment) que estabelece que um componen
 - Reduz a curva de aprendizado para novos desenvolvedores ao interagir com a API ou domínio.
 - Evita a poluição de classes com responsabilidades desconexas.
 
+## Quando
+- **Usar:** para que abstrações e APIs se comportem exatamente como o nome/contexto sugerem.
+- **Evitar:** atributos ou métodos “por garantia” fora do escopo — surpreendem quem consome.
+
 ## Conexões
 - [[Abstração]]
 - [[Design Orientado a Objetos]]

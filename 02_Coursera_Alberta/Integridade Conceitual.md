@@ -18,6 +18,10 @@ Fred Brooks (*The Mythical Man-Month*): melhor omitir features anômalas e refle
 - Time sabe *onde* e *como* mudar para novos requisitos.
 - Menos “casos especiais” → manutenção e raciocínio mais baratos (metáfora: um canal de convites vs três redes sociais).
 
+## Quando
+- **Usar:** para alinhar decisões e convenções como se fossem de uma só mente.
+- **Evitar:** juntar ideias boas porém descoordenadas — sem silenciar debate; o alvo é o acordo.
+
 ## Conexões
 - [[Unificação de Conceitos]]
 - [[Arquitetura vs Design de Software]]

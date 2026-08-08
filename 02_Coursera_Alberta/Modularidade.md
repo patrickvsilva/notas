@@ -9,6 +9,10 @@ Qualidade de design em que o sistema é feito de partes com fronteiras claras: c
 - Reuso: dá para usar só a câmera, sem carregar o telefone (ex. da aula).
 - Flexibilidade: trocar uma implementação sem reescrever o coordenador.
 
+## Quando
+- **Usar:** quando partes com fronteiras claras precisam ser reutilizadas, trocadas ou alteradas com pouco impacto.
+- **Evitar:** “módulos” sem contrato/fronteira — ou fatiar sem necessidade real.
+
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Coesão]]

@@ -23,10 +23,9 @@ Técnica tátil e visual de modelagem de baixo custo usada no [[Design Conceitua
 2. **Experimentação & Simulação:** Permite que a equipe manipule os cartões, faça *role-playing* do fluxo e descubra componentes ocultos.
 3. **Barato e Longe do Código:** Facilita descartar designs e mantém o foco no problema, não na implementação.
 
-## Limite (quando NÃO basta)
-- Não separa propriedades de operações — tudo vira “responsabilidade”.
-- Ambíguo demais para traduzir direto em código.
-- Para o blueprint técnico, use [[Diagrama de Classes]] ([[UML]]).
+## Quando
+- **Usar:** prototipagem conceitual barata — responsabilidades, colaboradores e role-playing.
+- **Evitar:** como artefato único para implementação — avance para [[Diagrama de Classes]].
 
 ## Conexões
 - [[Design Conceitual]]

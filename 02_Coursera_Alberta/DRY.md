@@ -7,6 +7,10 @@ Regra de design (*Don't Repeat Yourself*): evite duplicar a mesma lógica ou con
 ## Por quê
 - Sistemas com código repetido são mais difíceis de expandir, alterar e manter; uma correção exige editar vários lugares e é propensa a erro.
 
+## Quando
+- **Usar:** para manter uma única representação autoritativa de cada conhecimento/lógica.
+- **Evitar:** abstrações forçadas que acoplam coisas só parecidas, não iguais.
+
 ## Conexões
 - [[Generalização]]
 - [[Herança]]

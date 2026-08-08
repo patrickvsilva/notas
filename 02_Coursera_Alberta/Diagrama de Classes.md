@@ -3,24 +3,24 @@ Diagrama [[UML]] que representa uma [[Abstração]] como classe, com detalhe pr�
 ## Estrutura da Caixa (3 seções)
 ```
 +---------------------+
-|   NomeDaClasse      |  → class (Java / Python)
+|   NomeDaClasse      |  → class (Java)
 +---------------------+
 | propriedades        |  → atributos / variáveis de instância
 +---------------------+
 | operações           |  → métodos
 +---------------------+
 ```
-- **Propriedades:** nome + tipo (primitivo ou classe). Em Python o tipo é opcional (anotações).
+- **Propriedades:** nome + tipo (primitivo ou classe).
 - **Operações:** nome + parâmetros + tipo de retorno.
 - **[[Visibilidade UML]]:** `+` `#` `~` `-` — [[Ocultação de Informação]] / [[Encapsulamento]] no diagrama ([[Modificadores de Acesso]]).
 
 ## Mapeamento ↔ Código
-| Diagrama | Java | Python |
-|---|---|---|
-| Nome da classe | `class Nome` | `class Nome:` |
-| Propriedade | variável de membro | atributo (`self.x` / `self._x`) |
-| Operação | método | método (`def`, com `self`) |
-| `+` / `#` / `~` / `-` | `public` / `protected` / default / `private` | ver [[Modificadores de Acesso]] |
+| Diagrama | Java |
+|---|---|
+| Nome da classe | `class Nome` |
+| Propriedade | variável de membro |
+| Operação | método |
+| `+` / `#` / `~` / `-` | `public` / `protected` / default / `private` |
 
 Conversão inversa: identificar classe → propriedades a partir dos atributos → operações a partir dos métodos (com params e retorno).
 
@@ -50,18 +50,6 @@ public class ClickCounter {
 }
 ```
 
-```python
-class ClickCounter:
-    def __init__(self):
-        self._count = 0
-
-    def set_click_count(self, c: int) -> None:
-        self._count = c
-
-    def get_click_count(self) -> int:
-        return self._count
-```
-
 > Exemplo com validação em setter: ver [[Encapsulamento]] (`Student`).
 
 ## Relacionamentos (todo ↔ parte)
@@ -83,10 +71,9 @@ Detalhes e código: ver [[Decomposição]].
 
 Detalhes e código: ver [[Generalização]] / [[Herança]] / [[Interface]].
 
-## vs [[Cartões CRC]]
-- CRC mistura “saber” e “fazer”; o diagrama **separa** propriedades e operações.
-- CRC é ambíguo demais para traduzir direto em código; o diagrama remove essa ambiguidade.
-- CRC permanece melhor para prototipar (barato, longe do código); o diagrama é melhor para comunicar o design técnico.
+## Quando
+- **Usar:** design técnico próximo do código (blueprint para implementar).
+- **Evitar:** brainstorming inicial — prefira [[Cartões CRC]] nessa fase.
 
 ## Conexões
 - [[UML]]

@@ -11,6 +11,10 @@ Métrica de [[Complexidade de Design]] que captura quão difícil é **conectar*
 - `Sensor.get(flag)` com `0` = umidade, `1` = temperatura → quem chama precisa “abrir” o método para entender o flag → **falta facilidade** → chamador fica **fortemente acoplado**.
 - Separar `HumiditySensor.get()` e `TemperatureSensor.get()` → intenção clara → uso **frouxamente acoplado**.
 
+## Quando
+- **Usar:** buscar acoplamento baixo/frouxo (poucas conexões óbvias e trocáveis).
+- **Evitar:** acoplamento apertado — e lembrar: ↓ acoplamento demais pode ↓ [[Coesão]].
+
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Modularidade]]

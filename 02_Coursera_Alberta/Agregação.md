@@ -25,16 +25,11 @@ public class Airliner {
 }
 ```
 
-```python
-class Airliner:
-    def __init__(self):
-        self._crew: list[Crew] = []
-
-    def add_crew(self, member: Crew) -> None:
-        self._crew.append(member)
-```
-
 O `Crew` é criado fora e adicionado; não nasce nem morre com o `Airliner`.
+
+## Quando
+- **Usar:** *has-a* fraco com lifetimes independentes e partes compartilháveis.
+- **Evitar:** se a parte morre com o todo — use [[Composição]].
 
 ## Conexões
 - [[Decomposição]]

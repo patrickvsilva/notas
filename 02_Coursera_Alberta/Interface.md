@@ -4,7 +4,6 @@ Contrato de **comportamentos** (só assinaturas de métodos) que define um **tip
 
 ## Características
 - Em Java: `interface IAnimal { void move(); void speak(); void eat(); }` (prefixo `I` por convenção).
-- Em Python: paralelo próximo = `Protocol` / `ABC` só com `@abstractmethod`.
 - Uma classe pode implementar **várias** interfaces (vários tipos ao mesmo tempo).
 - Interfaces podem herdar de outras interfaces — só se o subcontrato puder **substituir** o supercontrato (ex: `IVehicleMovement3D` estende movimento 2D; não inchando o 2D com eixo Z).
 
@@ -34,26 +33,9 @@ public class Dog implements IAnimal {
 }
 ```
 
-```python
-from typing import Protocol
-
-class Animal(Protocol):
-    def move(self) -> None: ...
-    def speak(self) -> None: ...
-    def eat(self) -> None: ...
-
-class Dog:
-    def move(self) -> None: ...
-    def speak(self) -> None:
-        print("bark")
-    def eat(self) -> None: ...
-```
-
-## Quando usar (vs [[Herança de Implementação]])
-- Precisa de **contrato compartilhado** e implementações diferentes ([[Polimorfismo]]) sem herdar estado/código.
-- Precisa de **múltiplos tipos** sem [[Herança Múltipla]] de classes (Java).
-- Não use para “juntar métodos num balde grande” — só quando classes relacionadas devam trabalhar de forma consistente sob o mesmo tipo.
-- Contribui para [[Integridade Conceitual]]: mesmo contrato → comportamentos previsíveis entre implementações.
+## Quando
+- **Usar:** contrato compartilhado entre tipos distintos, ou múltiplos tipos sem herança múltipla.
+- **Evitar:** se precisa de estado/implementação compartilhada — prefira [[Classe Abstrata]]/`extends`.
 
 ## Conexões
 - [[Integridade Conceitual]]

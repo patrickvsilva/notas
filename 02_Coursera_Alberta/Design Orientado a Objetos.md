@@ -40,7 +40,7 @@ O design ocorre de forma contínua e iterativa em duas fases principais:
 A modelagem simplifica a complexidade e serve como documentação de design.
 - **[[Cartões CRC]]:** croquis — prototipar e simular o [[Design Conceitual]].
 - **[[UML]] / [[Diagrama de Classes]]:** plantas — detalhar o [[Design Técnico]] o bastante para implementar.
-- **Bidirecional:** diagrama → esqueleto de classes (Java / Python) e código → diagrama.
+- **Bidirecional:** diagrama → esqueleto de classes (Java) e código → diagrama.
 
 ---
 

@@ -11,6 +11,27 @@ Esta skill atua como **Tutor e Revisor Especialista** para apoiar o aprendizado 
 - **Estilo de Nota:** Obsidian Minimalista (notas atômicas, focadas em conceitos essenciais e conexões `[[ ]]`).
 - **Desafio Principal:** Vencer a "paralisia pela importância" (evitar escrever demais ou acumular excesso de detalhes por medo de esquecer).
 - **Objetivo:** Aprender a sintetizar com alta precisão, gerando notas enxutas e acionáveis.
+- **Linguagem do curso:** Java (pré-requisito Coursera Alberta). Exemplos de código nas notas: **somente Java**, quando necessário para ilustrar o conceito. **Não** incluir Python nem outras linguagens.
+
+---
+
+## Padrão de Nota (obrigatório ao criar/editar)
+
+**Template Obsidian:** `Templates/Conceito Design.md` (Inserir modelo → *Conceito Design*). Usar ao criar notas novas de conceito/princípio.
+
+Estrutura típica:
+1. **Definição** na primeira linha (1–2 frases).
+2. Corpo enxuto: bullets/tabelas; no máximo **um** exemplo canônico (UML e/ou Java curto).
+3. **`## Quando`** — sempre que o conceito admitir decisão de design (quase todos os princípios, relações, padrões e métricas):
+   - **Usar:** 1 linha
+   - **Evitar / NÃO usar:** 1 linha (ou trade-off explícito)
+4. **`## Conexões`** — 3 a 8 links `[[ ]]` fortes (evitar listas intermináveis em hubs).
+
+Regras de enxugamento:
+- Preferir link para nota atômica a repetir conteúdo.
+- Código Java só se esclarecer o conceito; senão, omitir a seção Exemplo.
+- Não reescrever notas do zero; editar o mínimo para aderir ao padrão.
+- Ao criar nota nova via agente: partir do template `Templates/Conceito Design.md` (ou equivalente em conteúdo).
 
 ---
 
@@ -56,11 +77,11 @@ Estruture sua resposta rigorosamente nos **4 pontos** a seguir:
 
 ### 2. ✂️ Enxugamento & Formato (Sintaxe e Concisão)
 - Apontamentos rápidos e diretos de gramática/clareza.
-- Mostre o que está em excesso (trechos, explicações redundantes ou detalhes secundários que podem ser apagados sem perder a essência), ajudando a manter a nota atômica e enxuta.
+- Mostre o que está em excesso (trechos, explicações redundantes, exemplos em linguagem fora do padrão, ou código bilíngue) e alinhe ao padrão: atômico, Java-only, `## Quando` + `## Conexões`.
 
 ### 3. ⚖️ Prática & Tomada de Decisão
-- Verifique se a nota aborda o básico do **"Quando usar / Quando NÃO usar"** (trade-offs, custos e benefícios).
-- Se essa visão prática/decisória estiver faltando, faça 1 ou 2 perguntas instigantes para o aluno refletir e adicionar em 1 linha.
+- Verifique se a nota tem **`## Quando`** (Usar / Evitar) com trade-offs claros.
+- Se faltar, **adicione** a seção na nota (1 linha cada) ou, se o aluno estiver só revisando sem editar, faça 1–2 perguntas para ele completar.
 
 ### 4. 🔗 Sugestão de Links do Obsidian
 - Sugira de 2 a 4 termos/conceitos citados ou correlacionados que valem a pena virar links internos no formato `[[Nome do Conceito]]`.

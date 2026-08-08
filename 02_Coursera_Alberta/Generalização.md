@@ -18,6 +18,10 @@ Princípio de design que reduz redundância ao extrair características ou compo
 - No código: `extends` / herança de classe, [[Classe Abstrata]] quando o geral não deve ser instanciado, `super` no construtor, [[Sobrescrita de Método]] para especializar comportamento.
 - Tipos: [[Herança de Implementação]] (simples em Java). Para contratos de comportamento sem herdar implementação: [[Interface]] ([[Subtipagem]], [[Polimorfismo]]) — *não* é generalizar classes.
 
+## Quando
+- **Usar:** quando há características/comportamentos comuns a extrair num só lugar ([[DRY]]).
+- **Evitar:** forçar herança só para reutilizar código sem relação *é-um* real.
+
 ## Conexões
 - [[Design Orientado a Objetos]]
 - [[Herança]]
