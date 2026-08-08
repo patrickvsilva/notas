@@ -8,9 +8,10 @@ Relação de [[Decomposição]] mais frouxa: dois objetos interagem por um tempo
 ## UML
 Linha reta entre as classes (sem diamante).
 
-```
-Person 0..* --------- 0..* Airline
-Student 0..* --------- 0..* Sport
+```mermaid
+classDiagram
+    Person "0..*" -- "0..*" Airline
+    Student "0..*" -- "0..*" Sport
 ```
 
 ## Código (usa, não possui)

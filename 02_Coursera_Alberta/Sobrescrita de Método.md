@@ -11,10 +11,12 @@ A subclasse fornece sua **própria implementação** de um método herdado da su
 | Ainda pode chamar o original | `super.walk()` |
 
 ## Quando
-- **Usar:** para especializar o *como* de um método herdado sem mudar a assinatura.
-- **Evitar:** alterar o contrato ou surpreender quem usa o tipo da superclasse.
+- **Usar:** especializar o *como* de um método herdado **sem** mudar o contrato do tipo base ([[Princípio de Substituição de Liskov]]).
+- **Evitar:** sobrescrever para anular ou distorcer o significado esperado (ex: `walk()` que na verdade só nada).
 
 ## Conexões
 - [[Herança]]
+- [[Princípio de Substituição de Liskov]]
 - [[Generalização]]
 - [[Pensamento de Caixa Preta]]
+- [[Princípio da Menor Surpresa]]

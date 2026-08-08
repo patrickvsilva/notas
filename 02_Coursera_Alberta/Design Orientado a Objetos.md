@@ -39,8 +39,9 @@ O design ocorre de forma contínua e iterativa em duas fases principais:
 
 A modelagem simplifica a complexidade e serve como documentação de design.
 - **[[Cartões CRC]]:** croquis — prototipar e simular o [[Design Conceitual]].
-- **[[UML]] / [[Diagrama de Classes]]:** plantas — detalhar o [[Design Técnico]] o bastante para implementar.
-- **Bidirecional:** diagrama → esqueleto de classes (Java) e código → diagrama.
+- **[[UML]] / [[Diagrama de Classes]]:** planta da **estrutura**.
+- **[[Diagrama de Sequência]]:** planta do **comportamento** (mensagens no tempo para uma tarefa).
+- **Bidirecional (classes):** diagrama → esqueleto Java e código → diagrama.
 
 ---
 
@@ -53,22 +54,18 @@ Para lidar com a complexidade e atingir qualidades de software (reusabilidade, f
 4. **[[Generalização]]**: Reduzir redundância extraindo o comum (métodos e [[Herança]]); contratos de tipo via [[Interface]].
 
 ## Avaliar a Estrutura
-Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]] (consistência “como uma só mente”). Próximo no módulo: modelar comportamentos com diagramas de estado e de sequência.
+Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]]. Comportamento: [[Diagrama de Sequência]] (e, em seguida, diagramas de estado).
 
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Integridade Conceitual]]
 - [[Modularidade]]
 - [[Especialização em Design e Arquitetura de Software]]
-- [[Evolução dos Paradigmas de Programação]]
-- [[Tipo Abstrato de Dados]]
-- [[Princípio da Menor Surpresa]]
 - [[Design de Software]]
 - [[Arquitetura vs Design de Software]]
 - [[Complexidade de Design]]
-- [[Acoplamento]]
-- [[Coesão]]
-- [[Categorias de Objetos]]
+- [[UML]]
+- [[Diagrama de Classes]]
+- [[Diagrama de Sequência]]
 - [[Design Conceitual]]
 - [[Design Técnico]]
-- [[Fluxo de Desenvolvimento de Software]]

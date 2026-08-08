@@ -17,4 +17,6 @@ Princípio de design (Rule of Least Astonishment) que estabelece que um componen
 
 ## Conexões
 - [[Abstração]]
+- [[Princípio de Substituição de Liskov]]
+- [[Herança]]
 - [[Design Orientado a Objetos]]

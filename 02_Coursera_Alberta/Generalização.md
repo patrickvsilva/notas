@@ -19,22 +19,16 @@ Princípio de design que reduz redundância ao extrair características ou compo
 - Tipos: [[Herança de Implementação]] (simples em Java). Para contratos de comportamento sem herdar implementação: [[Interface]] ([[Subtipagem]], [[Polimorfismo]]) — *não* é generalizar classes.
 
 ## Quando
-- **Usar:** quando há características/comportamentos comuns a extrair num só lugar ([[DRY]]).
-- **Evitar:** forçar herança só para reutilizar código sem relação *é-um* real.
+- **Usar:** características/comportamentos comuns a extrair num só lugar ([[DRY]]), com especialização real nas subclasses.
+- **Evitar:** forçar [[Herança]] só para reutilizar código, ou violar [[Princípio de Substituição de Liskov]] — considere [[Decomposição]].
 
 ## Conexões
 - [[Design Orientado a Objetos]]
 - [[Herança]]
+- [[Princípio de Substituição de Liskov]]
 - [[Herança de Implementação]]
 - [[Interface]]
-- [[Subtipagem]]
-- [[Polimorfismo]]
-- [[Herança Múltipla]]
+- [[Decomposição]]
+- [[DRY]]
 - [[Classe Abstrata]]
 - [[Sobrescrita de Método]]
-- [[Visibilidade UML]]
-- [[Diagrama de Classes]]
-- [[DRY]]
-- [[Abstração]]
-- [[Encapsulamento]]
-- [[Decomposição]]

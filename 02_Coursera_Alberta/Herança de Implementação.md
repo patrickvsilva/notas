@@ -8,14 +8,14 @@ Tipo de [[Herança]] em que a subclasse herda a **implementação** (atributos e
 Para múltiplos tipos sem herdar implementação de várias classes: [[Interface]] (`implements`) — ver [[Herança Múltipla]].
 
 ## Quando
-- **Usar:** quando subclasses compartilham estado/código concreto via `extends` e *é-um*.
-- **Evitar:** se só precisa de contrato compartilhado — use [[Interface]].
+- **Usar:** subclasses compartilham estado/código concreto via `extends`, com *é-um* e [[Princípio de Substituição de Liskov]].
+- **Evitar:** só contrato compartilhado ([[Interface]]); ou subclasse sem especialização própria.
 
 ## Conexões
 - [[Herança]]
+- [[Princípio de Substituição de Liskov]]
 - [[Interface]]
 - [[Herança Múltipla]]
 - [[Generalização]]
 - [[Classe Abstrata]]
-- [[Sobrescrita de Método]]
 - [[Subtipagem]]

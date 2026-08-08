@@ -17,18 +17,16 @@ Princípio de design que forma um objeto autocontido ao agrupar dados e comporta
 - Esconda o que pode mudar (implementação); revele só premissas estáveis da interface ([[Ocultação de Informação]]).
 
 ### Exemplo (`Student`)
-```
-+----------------------------------+
-| Student                          |
-+----------------------------------+
-| - gpa : double                   |
-| - degreeProgram : String         |
-+----------------------------------+
-| + getGpa() : double              |
-| + setGpa(gpa : double)           |
-| + getDegreeProgram() : String    |
-| + setDegreeProgram(p : String)   |
-+----------------------------------+
+```mermaid
+classDiagram
+    class Student {
+        -double gpa
+        -String degreeProgram
+        +getGpa() double
+        +setGpa(gpa) void
+        +getDegreeProgram() String
+        +setDegreeProgram(p) void
+    }
 ```
 
 ```java

@@ -25,11 +25,12 @@ Técnica tátil e visual de modelagem de baixo custo usada no [[Design Conceitua
 
 ## Quando
 - **Usar:** prototipagem conceitual barata — responsabilidades, colaboradores e role-playing.
-- **Evitar:** como artefato único para implementação — avance para [[Diagrama de Classes]].
+- **Evitar:** como artefato único para implementação — avance para [[Diagrama de Classes]] e [[Diagrama de Sequência]].
 
 ## Conexões
 - [[Design Conceitual]]
 - [[Diagrama de Classes]]
+- [[Diagrama de Sequência]]
 - [[UML]]
 - [[Estudo de Caso - Caixa Eletrônico]]
 - [[Design Orientado a Objetos]]

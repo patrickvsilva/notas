@@ -5,26 +5,18 @@ Linguagem visual de diagramas técnicos para expressar o design de software com 
 - UML ≈ planta: detalha o suficiente para quem vai construir ([[Design Técnico]]), ainda visual.
 
 ## Diagramas (nesta especialização)
-- **[[Diagrama de Classes]]:** estrutura estática — classes, atributos, operações, [[Visibilidade UML]], relacionamentos todo–parte, [[Herança]] e [[Interface]].
-- Outros (sequência, componentes, etc.) aparecem em lições posteriores.
+- **[[Diagrama de Classes]]:** estrutura estática — classes, atributos, operações, relacionamentos.
+- **[[Diagrama de Sequência]]:** comportamento dinâmico — mensagens entre objetos no tempo (para uma tarefa).
+- Outros (estado, componentes, etc.) em lições posteriores.
+
+## Quando
+- **Usar:** comunicar design técnico com precisão (planta), após o croqui conceitual.
+- **Evitar:** detalhar UML cedo demais no brainstorm — comece com [[Cartões CRC]].
 
 ## Conexões
 - [[Diagrama de Classes]]
+- [[Diagrama de Sequência]]
 - [[Design Técnico]]
 - [[Design Conceitual]]
 - [[Cartões CRC]]
 - [[Design Orientado a Objetos]]
-- [[Abstração]]
-- [[Visibilidade UML]]
-- [[Encapsulamento]]
-- [[Decomposição]]
-- [[Associação]]
-- [[Agregação]]
-- [[Composição]]
-- [[Cardinalidade UML]]
-- [[Generalização]]
-- [[Herança]]
-- [[Interface]]
-- [[Subtipagem]]
-- [[Polimorfismo]]
-- [[Classe Abstrata]]

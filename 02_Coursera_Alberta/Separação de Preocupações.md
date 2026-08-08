@@ -21,6 +21,22 @@ Meta-princípio: qualquer **preocupação** (*concern* — o que importa para re
   - construtor recebe as interfaces; **quem instancia** câmera/telefone é outra responsabilidade.
 - Resultado: ↑ [[Coesão]] e [[Modularidade]]; trade-off → ↑ [[Acoplamento]] (o coordenador depende das interfaces). Ver [[Complexidade de Design]].
 
+```mermaid
+classDiagram
+    class Camera {
+        <<interface>>
+        +capture()
+    }
+    class Phone {
+        <<interface>>
+        +dial(number)
+    }
+    Camera <|.. FirstGenCamera
+    Phone <|.. TraditionalPhone
+    SmartPhone o-- Camera
+    SmartPhone o-- Phone
+```
+
 ```java
 public class SmartPhone {
     private Camera camera;

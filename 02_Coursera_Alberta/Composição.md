@@ -6,12 +6,13 @@ Relação *has-a* **forte** da [[Decomposição]]: contenção exclusiva — o t
 - Acesso às partes costuma passar pelo todo.
 
 ## UML
-Diamante **preenchido** (◆) no lado do **todo**.
+Diamante **preenchido** (◆) no lado do **todo** (`*--` no Mermaid).
 
-```
-House ◆── 1..* Room
-Human ◆── 1 Brain
-Employee ◆── 1 Salary
+```mermaid
+classDiagram
+    House "1" *-- "1..*" Room
+    Human "1" *-- "1" Brain
+    Employee "1" *-- "1" Salary
 ```
 
 ## Código (parte criada com o todo)

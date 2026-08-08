@@ -6,12 +6,13 @@ Relação *has-a* **fraca** da [[Decomposição]]: o todo tem partes que lhe per
 - A parte sobrevive fora do todo (tripulação existe fora do voo).
 
 ## UML
-Diamante **vazio** (◇) no lado do **todo**.
+Diamante **vazio** (◇) no lado do **todo** (`o--` no Mermaid).
 
-```
-Airliner ◇── 0..* Crew
-CourseSection ◇── 0..* Student
-PetStore ◇── 0..* Pet
+```mermaid
+classDiagram
+    Airliner "1" o-- "0..*" Crew
+    CourseSection "1" o-- "0..*" Student
+    PetStore "1" o-- "0..*" Pet
 ```
 
 ## Código (tem, mas lifetimes independentes)

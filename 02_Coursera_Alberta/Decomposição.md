@@ -26,23 +26,20 @@ Do mais frouxo ao mais rígido:
 - **Reutilização e paralelismo:** partes bem delimitadas podem ser reaproveitadas e desenvolvidas em paralelo.
 
 ## Quando
-- **Usar:** para partir um todo complexo em partes com responsabilidades distintas.
+- **Usar:** partir um todo complexo em partes com responsabilidades distintas; também quando “parece herança” mas a relação é *tem-um* (ex: smartphone *tem* câmera e telefone — não *é um* telefone com métodos de câmera).
 - **Evitar:** decompor sem decidir ciclo de vida, cardinalidade e compartilhamento.
 
 ## Conexões
 - [[Separação de Preocupações]]
 - [[Modularidade]]
+- [[Herança]]
 - [[Design Orientado a Objetos]]
 - [[Associação]]
 - [[Agregação]]
 - [[Composição]]
 - [[Cardinalidade UML]]
-- [[Diagrama de Classes]]
 - [[Complexidade de Design]]
 - [[Acoplamento]]
 - [[Coesão]]
 - [[Encapsulamento]]
-- [[Pensamento de Caixa Preta]]
-- [[Abstração]]
 - [[Generalização]]
-- [[Categorias de Objetos]]

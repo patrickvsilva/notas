@@ -10,12 +10,12 @@ Relação entre tipos: um **subtipo** é utilizável onde o **supertipo** é esp
 Em ambos, um `Dog` pode ser usado onde o programa espera o tipo animal.
 
 ## Quando
-- **Usar:** quando o subtipo pode substituir o supertipo em qualquer uso esperado.
-- **Evitar:** se o subtipo quebra o contrato do supertipo (não é substituível de verdade).
+- **Usar:** quando o subtipo pode substituir o supertipo em qualquer uso esperado ([[Princípio de Substituição de Liskov]]).
+- **Evitar:** se o subtipo quebra o contrato do supertipo.
 
 ## Conexões
+- [[Princípio de Substituição de Liskov]]
 - [[Interface]]
 - [[Herança]]
 - [[Polimorfismo]]
 - [[Generalização]]
-- [[Design Orientado a Objetos]]

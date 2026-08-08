@@ -1,14 +1,12 @@
 Diagrama [[UML]] que representa uma [[Abstração]] como classe, com detalhe próximo o bastante do código para guiar a implementação — e conversível em ambas as direções (diagrama ↔ código).
 
 ## Estrutura da Caixa (3 seções)
-```
-+---------------------+
-|   NomeDaClasse      |  → class (Java)
-+---------------------+
-| propriedades        |  → atributos / variáveis de instância
-+---------------------+
-| operações           |  → métodos
-+---------------------+
+```mermaid
+classDiagram
+    class NomeDaClasse {
+        propriedades
+        operações()
+    }
 ```
 - **Propriedades:** nome + tipo (primitivo ou classe).
 - **Operações:** nome + parâmetros + tipo de retorno.
@@ -25,15 +23,13 @@ Diagrama [[UML]] que representa uma [[Abstração]] como classe, com detalhe pr�
 Conversão inversa: identificar classe → propriedades a partir dos atributos → operações a partir dos métodos (com params e retorno).
 
 ### Exemplo básico (`ClickCounter`)
-```
-+---------------------------+
-| ClickCounter              |
-+---------------------------+
-| - count : int             |
-+---------------------------+
-| + setClickCount(c : int)  |
-| + getClickCount() : int   |
-+---------------------------+
+```mermaid
+classDiagram
+    class ClickCounter {
+        -int count
+        +setClickCount(c) void
+        +getClickCount() int
+    }
 ```
 
 ```java

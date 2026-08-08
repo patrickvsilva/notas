@@ -10,12 +10,15 @@ Contrato de **comportamentos** (só assinaturas de métodos) que define um **tip
 ## UML
 Caixa com `«interface»` (guillemets). Seta **tracejada** com ponta triangular: cabeça = interface, cauda = classe; aponta **para cima**.
 
-```
-    «interface»
-      IAnimal
-         △
-         ╎
-        Dog
+```mermaid
+classDiagram
+    class IAnimal {
+        <<interface>>
+        +move()
+        +speak()
+        +eat()
+    }
+    IAnimal <|.. Dog
 ```
 
 ## Código
