@@ -10,3 +10,6 @@
 # Caso use SOs diferentes
 .DS_Store
 Thumbs.db
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

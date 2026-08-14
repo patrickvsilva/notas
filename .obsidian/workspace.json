@@ -11,14 +11,14 @@
             "id": "e925bfdcf01b9ca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Pendências Engenharia de Software.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Pendências Engenharia de Software"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
         ]
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "6e0b7012b2d8026a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,15 +195,16 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e925bfdcf01b9ca4",
   "lastOpenFiles": [
+    "Pendências Engenharia de Software.md",
     "00_MBA/MBA Engenharia de Software.md",
     "Conceito Relacionado.md",
     "Templates/Conceito Design.md",
-    "Pendências Engenharia de Software.md",
     "01_CS50/Unicode.md",
     "00_MBA",
     "01_CS50/Sistema Binário.md",
