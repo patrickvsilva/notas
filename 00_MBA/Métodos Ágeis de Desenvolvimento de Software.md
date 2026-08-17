@@ -10,15 +10,15 @@ Conceitos e principais métodos ágeis; aplicar no contexto de desenvolvimento.
 ## Programa
 | Tema | Capturar depois (nota atômica, se precisar) |
 |---|---|
-| Visão geral + Manifesto + princípios | valores e trade-offs do ágil |
-| XP | ciclo e valores |
-| Práticas XP: TDD, pair programming, refatoração | o que é cada prática e quando |
-| Scrum | sprint, papéis, product/sprint backlog |
-| Kanban | fluxo contínuo vs. sprint |
+| Visão geral + [[Manifesto Ágil]] + princípios | valores e trade-offs do ágil |
+| [[XP]] | ciclo e valores |
+| Práticas [[XP]]: TDD, pair programming, refatoração | o que é cada prática e quando |
+| [[Scrum]] | sprint, papéis, product/sprint backlog |
+| [[Kanban]] | fluxo contínuo vs. sprint |
 | Scrum Solo | ágil sozinho — limites |
-| Relação XP × Scrum | o que cada um cobre |
+| Relação [[XP]] × [[Scrum]] | o que cada um cobre |
 
-Já no vault (ponte, não duplicar): [[História de Usuário]], [[Fluxo de Desenvolvimento de Software]].
+Já no vault (ponte, não duplicar): [[Manifesto Ágil]], [[História de Usuário]], [[Fluxo de Desenvolvimento de Software]].
 
 ## Datas
 | | Evento | Quando |
@@ -52,6 +52,7 @@ Login na Minha Biblioteca **antes** de abrir o link do livro.
 
 ## Conexões
 - [[MBA Engenharia de Software]]
+- [[Manifesto Ágil]]
 - [[História de Usuário]]
 - [[Fluxo de Desenvolvimento de Software]]
 - [[Pendências Engenharia de Software]]
