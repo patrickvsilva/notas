@@ -17,7 +17,7 @@ Hub do **23º MBA em Engenharia de Software** (turma 2026/3) — visão **macro*
 
 | # | Disciplina | Professor(a) | Ponte no vault |
 |---|---|---|---|
-| 1 | Ambiente de Ensino e Aprendizagem a Distância | Luciano Tadeu Esteves Pansanato | — (meta / EaD) |
+| 1 | [[Ambiente de Ensino e Aprendizagem a Distância]] | Luciano Tadeu Esteves Pansanato | meta / EaD |
 | 2 | Métodos Ágeis de Desenvolvimento de Software | José Augusto Fabri | [[História de Usuário]], [[Fluxo de Desenvolvimento de Software]] |
 | 3 | Avaliação e Melhoria de Processo de Software | Alexandre L’Erario | processo / qualidade |
 | 4 | Gestão de Requisitos de Software | Flávia Belintani Blum Haddad | [[Levantamento de Requisitos]], [[Requisitos Funcionais]], [[Requisitos Não-Funcionais]] |
