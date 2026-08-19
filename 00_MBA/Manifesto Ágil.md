@@ -22,7 +22,7 @@ Time auto-organizado (11) não anula [[Integridade Conceitual]]: sem acordo de d
 - **Evitar:** copiar cerimônias e ignorar os princípios (ágil de fachada); ou iterar no vazio quando o risco exige baseline congelada (contrato/regulação rígidos) sem adaptar o modelo.
 
 ## Conexões
-- [[Métodos Ágeis de Desenvolvimento de Software]]
+- [[Métodos Ágeis]]
 - [[História de Usuário]]
 - [[Levantamento de Requisitos]]
 - [[Fluxo de Desenvolvimento de Software]]
