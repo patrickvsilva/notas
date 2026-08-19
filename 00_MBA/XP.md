@@ -3,18 +3,18 @@ eXtreme Programming (final dos anos 1990): **composição** de valores, princíp
 ## Ideia Central
 Ágil é atitude ([[Métodos Ágeis]]); XP é o pacote técnico. Três camadas (esta aula lista as práticas):
 
-| Prática | Em uma linha |
-|---|---|
-| Planejamento constante | pode ir ao papel; não congela por meses |
-| Proximidade com o cliente | cliente **no time**, não só no contrato |
-| Design simples | simplicidade e elegância — o suficiente **agora** ([[Design de Software]]) |
-| Metáfora | vocabulário compartilhado do sistema |
-| Código coletivo | qualquer um altera qualquer parte |
-| Refatoração | melhorar design sem mudar comportamento |
-| Stand-up | sync curto do time |
-| TDD | teste **antes** do código de produção |
-| Padrões de código | convenção do time — **não** é [[Padrões de Projeto]] (GoF) |
-| Pair programming | dois no mesmo código (review contínuo) |
+| Prática                   | Em uma linha                                                               |
+| ------------------------- | -------------------------------------------------------------------------- |
+| Planejamento constante    | pode ir ao papel; não congela por meses                                    |
+| Proximidade com o cliente | cliente **no time**, não só no contrato                                    |
+| Design simples            | simplicidade e elegância — o suficiente **agora** ([[Design de Software]]) |
+| Metáfora                  | vocabulário compartilhado do sistema                                       |
+| Código coletivo           | qualquer um altera qualquer parte                                          |
+| Refatoração               | melhorar design sem mudar comportamento                                    |
+| Stand-up                  | sync curto do time                                                         |
+| TDD                       | teste **antes** do código de produção                                      |
+| Padrões de código         | convenção do time — **não** é [[Padrões de Projeto]] (GoF)                 |
+| Pair programming          | dois no mesmo código (review contínuo)                                     |
 
 Práticas se sustentam em conjunto: código coletivo sem TDD vira caos. Por isso o professor insiste no XP **como projeto**, não numa prática “incorporada”.
 

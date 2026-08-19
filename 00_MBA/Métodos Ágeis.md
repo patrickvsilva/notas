@@ -1,8 +1,9 @@
 Família de abordagens de desenvolvimento (paradigma) que privilegia feedback curto, entrega de valor e adaptação — alternativa à gestão preditiva/tradicional. O [[Manifesto Ágil]] (Snowbird, Utah, 2001) **nomeou** o movimento; práticas como [[XP]] e [[Scrum]] já existiam.
 
 ## Ideia Central
+- **Por quê:** software, até certo ponto, é obra intelectual (redação, pintura): precisa de revisão, **não é linear**, **não é determinístico** — não dá para prever o caminho até o produto. Regras existem (gramática, tamanho); o caminho da criação, não.
+- **Premissa:** **feedback** — interação direta com o produto. Cliente e time aprendem *manipulando* → processo evolucionário.
 - **Dois paradigmas (didático):** tradicional (plano/preditivo) vs ágil (empirismo e adaptação).
-- **Mecanismo:** feedback constante → incremento que o cliente pode usar → valor (não “artefato” no sentido de documento).
 - **Não é um método:** [[Scrum]], [[XP]], [[Kanban]] são instâncias; o manifesto é a régua.
 
 Cuidado de aula: “aplicar a qualquer projeto” é slogan. Ver `## Quando`.
