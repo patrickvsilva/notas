@@ -13,7 +13,7 @@ Método ágil (Kent Beck, anos 1990): valores + práticas que já existiam, rear
 Práticas se sustentam juntas: cliente no time; TDD (teste antes); par; refatoração; código coletivo + padrão de código (≠ [[Padrões de Projeto]]); CI; ritmo sustentável. Código coletivo sem testes tensiona [[Integridade Conceitual]].
 
 ## Quando
-- **Usar:** disciplina técnica e cliente no ciclo; [[Scrum]] cobre o fluxo.
+- **Usar:** disciplina técnica e cliente no ciclo; [[Scrum]] cobre o fluxo (não prescreve TDD/par).
 - **Evitar:** prática isolada (ex.: só stand-up) e chamar de XP.
 
 ## Conexões

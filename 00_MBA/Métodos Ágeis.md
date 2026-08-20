@@ -5,7 +5,13 @@ Família de abordagens de desenvolvimento (paradigma) que privilegia feedback cu
 - **Dois paradigmas (didático):** tradicional (plano/preditivo) vs ágil (empirismo e adaptação).
 - **Não é um método:** [[Scrum]], [[XP]], [[Kanban]] são instâncias; o manifesto é a régua.
 
-“Aplicar a qualquer projeto” é slogan. Ver `## Quando`.
+| Instância | Ênfase |
+|---|---|
+| [[XP]] | engenharia (TDD, par, CI) |
+| [[Scrum]] | gestão do fluxo (papéis, sprint, backlog) |
+| [[Kanban]] | fluxo visível e limite de WIP |
+
+Não são concorrentes obrigatórios: Scrum organiza o fluxo; XP dita o código. “Aplicar a qualquer projeto” é slogan. Ver `## Quando`.
 
 ## Quando
 - **Usar:** incerteza de requisitos, cliente disponível para feedback, produto que se beneficia de entrega incremental.
