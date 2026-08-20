@@ -11,7 +11,7 @@ Conceitos e principais métodos ágeis; aplicar no contexto de desenvolvimento.
 | Tema | Capturar depois (nota atômica, se precisar) |
 |---|---|
 | Visão geral | [[Métodos Ágeis]] (paradigma) + [[Manifesto Ágil]] |
-| [[XP]] | visão geral: práticas (valores/princípios no detalhe) |
+| [[XP]] | valores (4) + práticas |
 | Práticas [[XP]]: TDD, pair programming, refatoração | o que é cada prática e quando |
 | [[Scrum]] | sprint, papéis, product/sprint backlog |
 | [[Kanban]] | fluxo contínuo vs. sprint |
