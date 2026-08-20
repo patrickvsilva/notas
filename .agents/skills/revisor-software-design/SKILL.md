@@ -22,9 +22,7 @@ Esta skill atua como **Tutor e Revisor Especialista** para apoiar o aprendizado 
 Estrutura típica:
 1. **Definição** na primeira linha (1–2 frases).
 2. Corpo enxuto: bullets/tabelas; no máximo **um** exemplo canônico (UML e/ou Java curto).
-3. **`## Quando`** — sempre que o conceito admitir decisão de design (quase todos os princípios, relações, padrões e métricas):
-   - **Usar:** 1 linha
-   - **Evitar / NÃO usar:** 1 linha (ou trade-off explícito)
+3. **`## Quando`** — **opcional**. Só vale se o conceito for uma decisão de design (princípio, relação, padrão, métrica) e o trade-off couber em 2 linhas (**Usar** / **Evitar**). Definições factuais, hubs e vocabulário podem omitir. Não inventar a seção para “completar o template”.
 4. **`## Conexões`** — 3 a 8 links `[[ ]]` fortes (evitar listas intermináveis em hubs).
 
 Regras de enxugamento:
@@ -77,11 +75,11 @@ Estruture sua resposta rigorosamente nos **4 pontos** a seguir:
 
 ### 2. ✂️ Enxugamento & Formato (Sintaxe e Concisão)
 - Apontamentos rápidos e diretos de gramática/clareza.
-- Mostre o que está em excesso (trechos, explicações redundantes, exemplos em linguagem fora do padrão, ou código bilíngue) e alinhe ao padrão: atômico, Java-only, `## Quando` + `## Conexões`.
+- Mostre o que está em excesso (trechos, explicações redundantes, exemplos em linguagem fora do padrão, ou código bilíngue) e alinhe ao padrão: atômico, Java-only, `## Conexões`. `## Quando` só se já existir ou se o conceito for claramente uma escolha de design.
 
 ### 3. ⚖️ Prática & Tomada de Decisão
-- Verifique se a nota tem **`## Quando`** (Usar / Evitar) com trade-offs claros.
-- Se faltar, **adicione** a seção na nota (1 linha cada) ou, se o aluno estiver só revisando sem editar, faça 1–2 perguntas para ele completar.
+- Se a nota **já tem** `## Quando`, cheque se o trade-off é nítido (1 linha Usar / 1 linha Evitar). Enxugue se estiver discursivo.
+- Se **não tem**, não acrescente por padrão. Só sugira (não obrigue) quando o conceito for uma decisão de design e o aluno ganharia com o trade-off.
 
 ### 4. 🔗 Sugestão de Links do Obsidian
 - Sugira de 2 a 4 termos/conceitos citados ou correlacionados que valem a pena virar links internos no formato `[[Nome do Conceito]]`.
