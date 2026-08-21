@@ -11,7 +11,7 @@ Conceitos e principais métodos ágeis; aplicar no contexto de desenvolvimento.
 | Tema | Capturar depois (nota atômica, se precisar) |
 |---|---|
 | Visão geral | [[Métodos Ágeis]] (paradigma) + [[Manifesto Ágil]] |
-| [[XP]] | valores (4) + práticas |
+| [[XP]] | valores (4) + práticas; ponte: [[XP e Princípios Ágeis]] |
 | [[Scrum]] | sprint, papéis, product/sprint backlog |
 | [[Kanban]] | fluxo contínuo vs. sprint |
 | Scrum Solo | ágil sozinho — limites |
