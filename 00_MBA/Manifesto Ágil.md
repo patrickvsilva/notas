@@ -1,4 +1,4 @@
-Valores (2001) e doze princípios que os operacionalizam: preferir pessoas, software funcionando, colaboração com o cliente e resposta à mudança. Servem para **julgar** práticas ([[Scrum]], [[XP]], [[Kanban]]) — não são um método.
+Valores (2001) e doze princípios que os operacionalizam: preferir pessoas, software funcionando, colaboração com o cliente e resposta à mudança. Servem para **julgar** práticas ([[Scrum]], [[XP]], [[Kanban]]) — não são um método. Ponte XP: [[XP e Princípios Ágeis]].
 
 ## Valores
 O manifesto privilegia o da esquerda, sem anular o da direita:

@@ -42,7 +42,7 @@ Partir de `Templates/Conceito Design.md`:
 
 1. Primeira linha: definição em 1–2 frases (o que é e por que importa).
 2. Corpo: bullets ou tabela curta. No máximo **um** exemplo canônico.
-3. `## Quando` — **Usar:** 1 linha; **Evitar:** 1 linha (trade-off).
+3. `## Quando` — **opcional.** Só se o conceito for decisão de design: **Usar:** 1 linha; **Evitar:** 1 linha. Hubs, vocabulário e definições factuais podem omitir.
 4. `## Conexões` — 3 a 8 `[[links]]` fortes. Hubs podem ter mais; notas atômicas não.
 
 Regras:
@@ -59,7 +59,7 @@ Ler e seguir `.agents/skills/revisor-software-design/SKILL.md`. Resposta em 4 bl
 
 1. Precisão técnica (o que estava certo, depois o erro)
 2. Enxugamento e formato
-3. Prática / `## Quando`
+3. Prática (trade-off só se a nota já tiver `## Quando` ou se o conceito for claramente uma decisão de design)
 4. 2–4 sugestões de `[[links]]`
 
 Tom: mentor direto, crítico e encorajador. Destacar o que já está bem sintetizado antes das correções.

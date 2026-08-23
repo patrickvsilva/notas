@@ -18,6 +18,7 @@ Definição em 1–2 frases: o que é e por que importa.
 ```
 
 ## Quando
+<!-- Opcional. Só se o conceito for uma decisão de design. Apague a seção se não ajudar. -->
 - **Usar:** em que situação este conceito é a escolha certa
 - **Evitar:** quando NÃO usar / trade-off principal
 
