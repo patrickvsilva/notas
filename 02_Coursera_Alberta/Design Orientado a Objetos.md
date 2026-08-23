@@ -41,6 +41,7 @@ A modelagem simplifica a complexidade e serve como documentação de design.
 - **[[Cartões CRC]]:** croquis — prototipar e simular o [[Design Conceitual]].
 - **[[UML]] / [[Diagrama de Classes]]:** planta da **estrutura**.
 - **[[Diagrama de Sequência]]:** planta do **comportamento** (mensagens no tempo para uma tarefa).
+- **[[Diagrama de Estados]]:** planta do **ciclo de vida** de um objeto (estados + eventos).
 - **Bidirecional (classes):** diagrama → esqueleto Java e código → diagrama.
 
 ---
@@ -54,7 +55,7 @@ Para lidar com a complexidade e atingir qualidades de software (reusabilidade, f
 4. **[[Generalização]]**: Reduzir redundância extraindo o comum (métodos e [[Herança]]); contratos de tipo via [[Interface]].
 
 ## Avaliar a Estrutura
-Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]]. Comportamento: [[Diagrama de Sequência]] (e, em seguida, diagramas de estado).
+Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]]. Comportamento: [[Diagrama de Sequência]] e [[Diagrama de Estados]].
 
 ## Conexões
 - [[Separação de Preocupações]]
@@ -67,5 +68,6 @@ Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]
 - [[UML]]
 - [[Diagrama de Classes]]
 - [[Diagrama de Sequência]]
+- [[Diagrama de Estados]]
 - [[Design Conceitual]]
 - [[Design Técnico]]

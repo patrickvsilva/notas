@@ -4,6 +4,9 @@ Classe que generaliza um conceito mas **não pode ser instanciada** diretamente 
 - Declaração: `abstract class Animal`
 - Efeito: `new Animal()` é ilegal
 
+## No UML
+Nome da classe e da operação abstrata em *itálico*; sem itálico, `{abstract}` — ver [[Diagrama de Classes]].
+
 Atributos e métodos concretos na abstrata ainda são herdados pelas subclasses ([[Herança]]). Como [[Interface]], é um meio de obter [[Polimorfismo]] (mesmo contrato, implementações nas subclasses).
 
 ## Interface vs classe abstrata (nesta trilha)

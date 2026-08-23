@@ -6,7 +6,7 @@ Estágio detalhado do design focado em **COMO** as responsabilidades dos compone
 - **Gerenciamento de Trade-offs:** Identificação de limitações tecnológicas e negociação contínua de alinhamento com stakeholders.
 
 ## Artefatos
-- Diagramas técnicos em [[UML]]: [[Diagrama de Classes]] (estrutura) e [[Diagrama de Sequência]] (interações no tempo); também componentes, esquemas de BD e APIs.
+- Diagramas técnicos em [[UML]]: [[Diagrama de Classes]] (estrutura), [[Diagrama de Sequência]] (interações no tempo) e [[Diagrama de Estados]] (ciclo de vida de um objeto); também componentes, esquemas de BD e APIs.
 
 ## Conexões
 - [[Categorias de Objetos]]
@@ -18,4 +18,5 @@ Estágio detalhado do design focado em **COMO** as responsabilidades dos compone
 - [[UML]]
 - [[Diagrama de Classes]]
 - [[Diagrama de Sequência]]
+- [[Diagrama de Estados]]
 - [[Cartões CRC]]

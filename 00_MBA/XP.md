@@ -31,7 +31,7 @@ Práticas (se sustentam em conjunto; isolada não é XP):
 | Stand-up                  | sync curto do time                                                         |
 | TDD                       | teste **antes** do código de produção                                      |
 | Padrões de código         | convenção do time — **não** é [[Padrões de Projeto]] (GoF)                 |
-| Pair programming          | dois no mesmo código (review contínuo)                                     |
+| [[Programação em Pares]]  | condutor + navegador no mesmo computador (review contínuo)                 |
 
 Por isso o professor insiste no XP **como projeto**, não numa prática “incorporada”.
 
@@ -46,3 +46,4 @@ Por isso o professor insiste no XP **como projeto**, não numa prática “incor
 - [[Scrum]]
 - [[Design de Software]]
 - [[História de Usuário]]
+- [[Programação em Pares]]

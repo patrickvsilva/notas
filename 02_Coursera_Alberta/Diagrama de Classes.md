@@ -19,6 +19,7 @@ classDiagram
 | Propriedade | variável de membro |
 | Operação | método |
 | `+` / `#` / `~` / `-` | `public` / `protected` / default / `private` |
+| *itálico* / `{abstract}` | `abstract` (classe ou operação) — [[Classe Abstrata]] |
 
 Conversão inversa: identificar classe → propriedades a partir dos atributos → operações a partir dos métodos (com params e retorno).
 

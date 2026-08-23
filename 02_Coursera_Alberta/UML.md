@@ -7,7 +7,8 @@ Linguagem visual de diagramas técnicos para expressar o design de software com 
 ## Diagramas (nesta especialização)
 - **[[Diagrama de Classes]]:** estrutura estática — classes, atributos, operações, relacionamentos.
 - **[[Diagrama de Sequência]]:** comportamento dinâmico — mensagens entre objetos no tempo (para uma tarefa).
-- Outros (estado, componentes, etc.) em lições posteriores.
+- **[[Diagrama de Estados]]:** ciclo de vida de **um** objeto — estados e eventos que os mudam.
+- Outros (casos de uso, componentes, etc.) em lições posteriores.
 
 ## Quando
 - **Usar:** comunicar design técnico com precisão (planta), após o croqui conceitual.
@@ -16,6 +17,7 @@ Linguagem visual de diagramas técnicos para expressar o design de software com 
 ## Conexões
 - [[Diagrama de Classes]]
 - [[Diagrama de Sequência]]
+- [[Diagrama de Estados]]
 - [[Design Técnico]]
 - [[Design Conceitual]]
 - [[Cartões CRC]]
