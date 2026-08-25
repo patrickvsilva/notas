@@ -6,7 +6,7 @@ Qualidade de design em que o sistema é feito de partes com fronteiras claras: c
 
 ## Por quê importa
 - Manutenção: bug/feature fica localizado.
-- Reuso: dá para usar só a câmera, sem carregar o telefone (ex. da aula).
+- Reuso: dá para usar só a câmera, sem carregar o telefone (ex. da aula). Em escala de produto: [[Framework]] (você encaixa; o Frame chama).
 - Flexibilidade: trocar uma implementação sem reescrever o coordenador.
 
 ## Quando
@@ -21,3 +21,4 @@ Qualidade de design em que o sistema é feito de partes com fronteiras claras: c
 - [[Design Orientado a Objetos]]
 - [[Decomposição]]
 - [[Interface]]
+- [[Framework]]

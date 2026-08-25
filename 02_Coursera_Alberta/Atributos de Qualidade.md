@@ -16,7 +16,7 @@ Propriedades mensuráveis e direcionadores estruturais que definem o quão bem u
 
 2. **Qualidades de Evolução e Código (Desenvolvedor):**
    - [[Manutenibilidade]] (Maintainability)
-   - [[Reutilização]] (Reusability)
+   - [[Reutilização]] (Reusability) — mecanismo típico: [[Framework]]
    - [[Flexibilidade]] (Flexibility)
 
 ## Conexões
@@ -24,3 +24,4 @@ Propriedades mensuráveis e direcionadores estruturais que definem o quão bem u
 - [[Requisitos Não-Funcionais]]
 - [[Requisitos Funcionais]]
 - [[Análise de Trade-offs]]
+- [[Framework]]

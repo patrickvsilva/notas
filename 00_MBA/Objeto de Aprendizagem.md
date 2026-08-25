@@ -13,3 +13,4 @@ Recurso digital que pode ser usado, reutilizado e combinado com outros para mont
 - [[Ambiente Virtual de Aprendizagem]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
 - [[Mediação Pedagógica]]
+- [[Lifelong Learning]]

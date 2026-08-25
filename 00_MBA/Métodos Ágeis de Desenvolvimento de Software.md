@@ -12,13 +12,13 @@ Conceitos e principais métodos ágeis; aplicar no contexto de desenvolvimento.
 |---|---|
 | Visão geral | [[Métodos Ágeis]] (paradigma) + [[Manifesto Ágil]] |
 | [[XP]] | valores (4) + práticas; ponte: [[XP e Princípios Ágeis]] |
-| Práticas [[XP]]: [[Programação em Pares]], TDD, refatoração | o que é cada prática e quando |
+| Práticas [[XP]]: [[Programação em Pares]], [[Padrões de Codificação]], TDD, refatoração | o que é cada prática e quando |
 | [[Scrum]] | sprint, papéis, product/sprint backlog |
 | [[Kanban]] | fluxo contínuo vs. sprint |
 | Scrum Solo | ágil sozinho — limites |
 | Relação [[XP]] × [[Scrum]] | o que cada um cobre |
 
-Já no vault (ponte, não duplicar): [[Métodos Ágeis]], [[Manifesto Ágil]], [[XP]], [[XP e Princípios Ágeis]], [[Programação em Pares]], [[História de Usuário]], [[Fluxo de Desenvolvimento de Software]].
+Já no vault (ponte, não duplicar): [[Métodos Ágeis]], [[Manifesto Ágil]], [[XP]], [[XP e Princípios Ágeis]], [[Programação em Pares]], [[Padrões de Codificação]], [[DevOps]], [[História de Usuário]], [[Fluxo de Desenvolvimento de Software]].
 
 ## Datas
 | | Evento | Quando |
@@ -57,6 +57,8 @@ Login na Minha Biblioteca **antes** de abrir o link do livro.
 - [[XP]]
 - [[XP e Princípios Ágeis]]
 - [[Programação em Pares]]
+- [[Padrões de Codificação]]
+- [[DevOps]]
 - [[História de Usuário]]
 - [[Fluxo de Desenvolvimento de Software]]
 - [[Pendências Engenharia de Software]]

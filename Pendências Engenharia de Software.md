@@ -20,7 +20,7 @@ Mapa das dimensões de um bom engenheiro de software e **onde cada tópico entra
 | Dados persistentes | SQL/NoSQL, transações, índices, consistência | .NET Bootcamp (PostgreSQL / EF Core); reforçar em projeto próprio |
 | Sistemas distribuídos | Filas, cache, idempotência, resiliência, eventos | .NET Bootcamp (RabbitMQ, Redis, Outbox, modulith → microserviços); Alberta SOA prepara o conceito |
 | Segurança | Auth, OWASP, ameaças, segredos | .NET Bootcamp parcial (Keycloak); checklist OWASP + hardening no projeto |
-| Sistemas e produção | Redes, SO, concorrência, falhas, observabilidade, deploy | [[CS50]] (redes/SO intro); .NET Bootcamp (Docker Compose); observabilidade/métricas em projeto próprio |
+| Sistemas e produção | Redes, SO, concorrência, falhas, observabilidade, deploy | Cultura [[DevOps]] (Dev ≠ usuário); [[CS50]] (redes/SO intro); .NET Bootcamp (Docker Compose); observabilidade/métricas em projeto próprio |
 | Qualidade na prática | Unit/integration/e2e, TDD, CI | MBA = gestão; escrever a suíte no projeto / CI no .NET ou stack escolhida |
 | Craft diário | Code review, refatoração em legado, debug em time | Trabalho, open source ou projeto colaborativo — nenhum curso substitui |
 

@@ -10,7 +10,7 @@ Método ágil (Kent Beck, anos 1990): valores + práticas que já existiam, rear
 | Simplicidade | só o pedido agora — não especular o futuro ([[Design de Software]]) |
 | Coragem | adotar o pacote, não uma prática |
 
-Práticas se sustentam juntas: cliente no time; TDD (teste antes); [[Programação em Pares|par]]; refatoração; código coletivo + padrão de código (≠ [[Padrões de Projeto]]); CI; ritmo sustentável. Código coletivo sem testes tensiona [[Integridade Conceitual]].
+Práticas se sustentam juntas: cliente no time; TDD (teste antes); [[Programação em Pares|par]]; refatoração; código coletivo + [[Padrões de Codificação|padrão de código]] (≠ [[Padrões de Projeto]]); CI ([[DevOps]]); ritmo sustentável. Código coletivo sem testes tensiona [[Integridade Conceitual]].
 
 Como os valores encarnam o manifesto: [[XP e Princípios Ágeis]].
 

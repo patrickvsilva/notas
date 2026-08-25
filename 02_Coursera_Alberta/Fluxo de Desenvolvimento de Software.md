@@ -19,3 +19,4 @@ flowchart TD
 - [[Arquitetura vs Design de Software]]
 - [[Design de Software]]
 - [[Estudo de Caso - Casa vs Busca de Cursos]]
+- [[DevOps]]
