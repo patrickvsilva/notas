@@ -18,6 +18,7 @@ Espaço on-line de interações de ensino — síncronas ou assíncronas. O que 
 ## Conexões
 - [[Tecnologia no Ensino]]
 - [[Mediação Pedagógica]]
+- [[Modelos de EaD]]
 - [[Objeto de Aprendizagem]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
 - [[MBA Engenharia de Software]]

@@ -3,7 +3,7 @@ Diagrama [[UML]] que mostra **como um objeto (ou o sistema) se comporta** ao lon
 ## Ideia Central
 - Complementa o [[Diagrama de Classes]] (estrutura) e o [[Diagrama de Sequência]] (conversa entre objetos): aqui o foco é **um** objeto reagindo a eventos.
 - **Estado:** como o objeto existe num instante — determinado pelos valores dos atributos (carro automático: park, reverse, neutral, drive). Em cada estado, só certos comportamentos são possíveis.
-- Útil para achar evento esquecido (ex: cancelar) e para guiar testes por estado.
+- Útil para achar evento esquecido (ex: cancelar) e para guiar testes por estado. [[Model Checking]] verifica esse modelo explorando os estados alcançáveis.
 
 ## Notação
 | Elemento | Desenho | Significado |
@@ -48,3 +48,4 @@ Término (não usado aqui): ATM devolve o cartão e o processo acaba — ver [[E
 - [[Design Técnico]]
 - [[Design Orientado a Objetos]]
 - [[Estudo de Caso - Caixa Eletrônico]]
+- [[Model Checking]]

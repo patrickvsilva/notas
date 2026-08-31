@@ -5,6 +5,7 @@ Mentalidade de tratar uma classe como uma caixa opaca: o consumidor fornece entr
 - Ex: pedir o GPA a um Estudante — não importa se veio de papel, banco de dados ou sistema online; o resultado é o mesmo.
 - Ex: `String.concat` — você usa a assinatura; a implementação pode mudar.
 - Ex. CS50: input → caixa → output ([[Resolução de Problemas]]); bloco Scratch `say` — você não implementa o balão.
+- Teste sem o fonte é outra atividade: [[Teste de Caixa Preta]]. Mapa: [[Caixa Preta]].
 
 ## Quando
 - **Usar:** ao consumir um módulo só pelo contrato (entradas/saídas), sem abrir a implementação.
@@ -17,3 +18,5 @@ Mentalidade de tratar uma classe como uma caixa opaca: o consumidor fornece entr
 - [[Abstração]]
 - [[Resolução de Problemas]]
 - [[CS50]]
+- [[Caixa Preta]]
+- [[Teste de Caixa Preta]]

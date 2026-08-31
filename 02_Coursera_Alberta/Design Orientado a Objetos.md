@@ -55,7 +55,7 @@ Para lidar com a complexidade e atingir qualidades de software (reusabilidade, f
 4. **[[Generalização]]**: Reduzir redundância extraindo o comum (métodos e [[Herança]]); contratos de tipo via [[Interface]].
 
 ## Avaliar a Estrutura
-Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]]. Comportamento: [[Diagrama de Sequência]] e [[Diagrama de Estados]].
+Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]]; avalie com [[Complexidade de Design]] ([[Acoplamento]] baixo, [[Coesão]] alta). Busque [[Integridade Conceitual]]. Comportamento: [[Diagrama de Sequência]] e [[Diagrama de Estados]]. Correção do modelo de estados: [[Model Checking]].
 
 ## Conexões
 - [[Separação de Preocupações]]
@@ -69,5 +69,6 @@ Aplique [[Separação de Preocupações]] para ↑ [[Coesão]] / [[Modularidade]
 - [[Diagrama de Classes]]
 - [[Diagrama de Sequência]]
 - [[Diagrama de Estados]]
+- [[Model Checking]]
 - [[Design Conceitual]]
 - [[Design Técnico]]

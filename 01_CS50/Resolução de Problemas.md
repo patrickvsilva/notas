@@ -17,5 +17,6 @@ flowchart LR
 - [[CS50]]
 - [[Algoritmo]]
 - [[Pensamento de Caixa Preta]]
+- [[Caixa Preta]]
 - [[Abstração]]
 - [[Pseudocódigo]]

@@ -6,6 +6,7 @@ Dois programadores lado a lado no **mesmo computador**, no mesmo design/algoritm
 - **Pressão do par:** compromisso compartilhado (e-mail/IM somem; o par puxa no cansaço e **não deixa largar a prática** quando aperta). Entrega mais consistente.
 - **Revezamento:** condutor ↔ navegador **e** troca de pares — *um* par, não *o* par (qualquer um substitui). Com regra.
 - **Conhecimento:** time nivelado **por alto** — código **e** regras de negócio. Júnior também puxa o sênior no detalhe (Jeffries/C3). Documento é frio.
+- Caso: [[Estudo de Caso - Programação em Pares]] — calendário igual, qualidade no solver (solo retrabalhou).
 
 ## Onde no ciclo
 - **Crítico:** análise e design juntos. Preparar **sozinho** antes (ler o problema, pensar a lógica, prototipar).
@@ -29,3 +30,4 @@ Dois programadores lado a lado no **mesmo computador**, no mesmo design/algoritm
 - [[Integridade Conceitual]]
 - [[Design de Software]]
 - [[Manifesto Ágil]]
+- [[Estudo de Caso - Programação em Pares]]

@@ -18,6 +18,8 @@ flowchart LR
 
 ## Conexões
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
+- [[Conceito de Modelo]]
+- [[Modelos de EaD]]
 - [[Tecnologia no Ensino]]
 - [[Ambiente Virtual de Aprendizagem]]
 - [[MBA Engenharia de Software]]

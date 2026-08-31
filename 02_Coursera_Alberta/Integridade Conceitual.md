@@ -7,7 +7,7 @@ Fred Brooks (*The Mythical Man-Month*): melhor omitir features anômalas e refle
 ## Como alcançar
 | Abordagem | Ideia |
 |---|---|
-| **Comunicação** | Acordos de time (stand-ups, retrospectivas, convenções de nome, libs/métodos padrão) |
+| **Comunicação** | Acordos de time ([[Stand-up Meeting|stand-ups]], retrospectivas, convenções de nome, libs/métodos padrão) |
 | **Code review** | Exame sistemático linha a linha — acha bugs **e** alinha estilo/design |
 | **Princípios e construtos** | [[Interface]], [[Padrões de Projeto]], princípios OO → comportamentos e estruturas previsíveis |
 | **Design / [[Arquitetura de Software]]** | Blueprint compartilhado (processo único vs vários processos — ver [[Arquitetura vs Design de Software]]) |

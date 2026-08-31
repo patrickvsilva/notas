@@ -17,11 +17,11 @@ Hub do **23º MBA em Engenharia de Software** (turma 2026/3) — visão **macro*
 
 | #   | Disciplina                                     | Professor(a)                    | Ponte no vault                                                                           |
 | --- | ---------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1   | Ambiente de Ensino e Aprendizagem a Distância  | Luciano Tadeu Esteves Pansanato | [[Lifelong Learning]] (meta / EaD)                                                       |
+| 1   | Ambiente de Ensino e Aprendizagem a Distância  | Luciano Tadeu Esteves Pansanato | [[Lifelong Learning]], [[Modelos de EaD]]                                                |
 | 2   | Métodos Ágeis de Desenvolvimento de Software   | José Augusto Fabri              | [[Métodos Ágeis]], [[XP]], [[Padrões de Codificação]], [[DevOps]]                        |
 | 3   | Avaliação e Melhoria de Processo de Software   | Alexandre L’Erario              | processo / qualidade                                                                     |
 | 4   | Gestão de Requisitos de Software               | Flávia Belintani Blum Haddad    | [[Levantamento de Requisitos]], [[Requisitos Funcionais]], [[Requisitos Não-Funcionais]] |
-| 5   | Planejamento e Gestão de Testes de Software    | Rafael Alves Paes de Oliveira   | qualidade / verificação                                                                  |
+| 5   | Planejamento e Gestão de Testes de Software    | Rafael Alves Paes de Oliveira   | [[Teste de Caixa Preta]], [[Model Checking]]                                              |
 | 6   | Didática do Ensino Superior                    | Eduardo Cotrin Teixeira         | — (docência)                                                                             |
 | 7   | Gestão de Configuração de Software             | Alexandre L’Erario              | versionamento / release                                                                  |
 | 8   | Gestão de Processos de Negócio                 | Guilherme Luiz Frufrek          | BPM / domínio                                                                            |
