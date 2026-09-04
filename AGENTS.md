@@ -17,6 +17,7 @@ O desafio recorrente é a **paralisia pela importância**: escrever demais por m
 | `00_MBA/` | Visão **macro**: gestão, processo, qualidade. Hub: `MBA Engenharia de Software.md` |
 | `01_CS50/` | Fundamentos de CS (Harvard). Hub: `CS50.md`. Prioridade: **depois** do Alberta |
 | `02_Coursera_Alberta/` | Visão **micro**: OOD, UML, padrões, arquitetura, SOA. **Foco atual** |
+| `03_RWTHx/` | Otimização matemática (RWTH/edX). Hub: `Otimização Matemática para Engenheiros.md`. Paralelo; não substitui Alberta |
 | `Pendências Engenharia de Software.md` | Mapa de gaps e ordem das trilhas |
 | `Templates/Conceito Design.md` | Template obrigatório para nota nova de conceito |
 | `.agents/skills/revisor-software-design/` | Skill de tutor/revisor — usar ao revisar, validar, sintetizar ou formatar notas |
@@ -27,6 +28,7 @@ Hubs de trilha (não duplicar conteúdo neles; só mapa + pontes):
 - `[[MBA Engenharia de Software]]`
 - `[[CS50]]`
 - `[[Especialização em Design e Arquitetura de Software]]`
+- `[[Otimização Matemática para Engenheiros]]`
 
 ## Tipos de nota
 
@@ -81,7 +83,7 @@ Pré-requisito do curso: Java. Exemplos nas notas acompanham isso.
 - Não alterar `.obsidian/plugins/`, `workspace.json` ou `workspace-mobile.json` (estado da UI).
 - Não versionar segredos; não commitar a menos que o usuário peça.
 - Não gerar textos longos “completos” no lugar de uma síntese.
-- Não misturar trilhas: MBA = gestão/processo; Alberta = design/arquitetura; CS50 = fundamentos. Conectar com `[[links]]`, não fundir numa nota só.
+- Não misturar trilhas: MBA = gestão/processo; Alberta = design/arquitetura; CS50 = fundamentos; RWTHx = otimização matemática. Conectar com `[[links]]`, não fundir numa nota só.
 
 ## Git
 

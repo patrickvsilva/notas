@@ -6,6 +6,7 @@ Mapa das dimensões de um bom engenheiro de software e **onde cada tópico entra
 3. **Depois da base de arquitetura (Alberta + #9 do MBA):** [.NET 8 Backend Bootcamp – Modulith, DDD & CQRS](https://www.coursera.org/programs/arcelormittal-qjnfy/specializations/packt-net-8-backend-bootcamp-modulith-ddd-cqrs)  
 4. **Sempre / paralelo leve:** projetos reais, code review, time  
 5. **Opcional / baixa prioridade:** Microsoft Python Developer (prática de linguagem; sobrepõe CS50)
+6. **Paralelo leve (não substitui Alberta):** [[Otimização Matemática para Engenheiros]] (RWTH/edX)
 
 ## Já bem endereçado (pelas trilhas)
 | Dimensão | Onde entra |
@@ -27,7 +28,7 @@ Mapa das dimensões de um bom engenheiro de software e **onde cada tópico entra
 ## Parcialmente coberto
 | Dimensão | Situação | Onde completa |
 |---|---|---|
-| Algoritmos e estruturas além do intro | Começa no [[CS50]] / [[Eficiência de Algoritmos]] | Continuar no CS50 (pós-Alberta); aprofundar se precisar |
+| Algoritmos e estruturas além do intro | Começa no [[CS50]] / [[Eficiência de Algoritmos]] | Continuar no CS50 (pós-Alberta); [[Otimização Matemática para Engenheiros]] formaliza o “melhor factível” |
 | Implementação fluente | Alberta = design em Java; pouco volume de código | .NET Bootcamp (mão na massa) **ou** projeto próprio; Python Microsoft só se quiser outro stack |
 | Produto e domínio | Requisitos/BPM no MBA | Contato com usuário e trade-offs reais no trabalho/projeto |
 
@@ -45,3 +46,4 @@ Mapa das dimensões de um bom engenheiro de software e **onde cada tópico entra
 - [[Arquitetura de Software]]
 - [[Atributos de Qualidade]]
 - [[Fluxo de Desenvolvimento de Software]]
+- [[Otimização Matemática para Engenheiros]]

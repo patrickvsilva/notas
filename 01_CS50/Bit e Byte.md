@@ -2,7 +2,7 @@ Unidade mínima de informação em computador: um **bit** (*binary digit*) vale 
 
 ## Ideia Central
 - Mapeia bem à física: eletricidade presente/ausente (interruptor / transistor) — mais simples que 10 níveis de voltagem.
-- Com *n* bits → \(2^n\) padrões possíveis (ex: 8 bits → 256 padrões: 0…255).
+- Com *n* bits → $2^n$ padrões possíveis (ex: 8 bits → 256 padrões: 0…255).
 - Unidades maiores: KB, MB, GB… são contagens de bytes.
 
 ## Exemplo
@@ -14,7 +14,7 @@ Unidade mínima de informação em computador: um **bit** (*binary digit*) vale 
 
 ## Quando
 - **Usar:** raciocinar sobre capacidade de armazenamento / faixa de valores.
-- **Evitar:** decorar potências — foque no padrão \(2^n\).
+- **Evitar:** decorar potências — foque no padrão $2^n$.
 
 ## Conexões
 - [[Sistema Binário]]

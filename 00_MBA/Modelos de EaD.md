@@ -8,7 +8,9 @@ Família de desenhos de ensino com separação física professor–aluno. Difere
 | Estudo independente com aulas | ritmo próprio + encontro ocasional | professor cede parte |
 
 - Ferramenta ≠ modelo: videoconferência e [[Ambiente Virtual de Aprendizagem]] servem mais de um.
-- Híbrido dos slides = sala remota + convencional. Bacich = misturar pedagogias no mesmo curso.
+- Híbrido dos slides = sala remota + convencional. Bacich = [[Ensino Híbrido]].
+- Moran mapeia o mesmo eixo: Teleaula ≈ sala distribuída; Web mais virtual ≈ independente; Web semipresencial ≈ independente com aulas.
+- Linha do tempo das mídias: [[Gerações da EaD]] — outro recorte, não um 4º tipo.
 - Este MBA ≈ estudo independente com aulas.
 - “Qual usar?” — ver [[Conceito de Modelo]]: possibilidade, não receita.
 
@@ -18,8 +20,9 @@ Família de desenhos de ensino com separação física professor–aluno. Difere
 
 ## Conexões
 - [[Conceito de Modelo]]
+- [[Gerações da EaD]]
+- [[Ensino Híbrido]]
 - [[Mediação Pedagógica]]
 - [[Ambiente Virtual de Aprendizagem]]
-- [[Tecnologia no Ensino]]
-- [[Objeto de Aprendizagem]]
+- [[Gestão de EaD]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]

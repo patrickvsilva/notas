@@ -4,6 +4,7 @@ Representação compartilhada, por analogia, de relações que definem um fenôm
 - Ciência generaliza e simplifica; o modelo é o sistema figurativo de referência (Behar; Carvalho Júnior).
 - **Modelo de ensino:** forma do curso — planejamento, métodos, avaliação, interação — sob influência da estrutura. Não é a ferramenta ([[Ambiente Virtual de Aprendizagem]], [[Objeto de Aprendizagem]]).
 - EaD: modelos são possibilidades + ação reflexiva em todas as etapas; não o único caminho ([[Mediação Pedagógica]]). Tipos: [[Modelos de EaD]].
+- Costa (qualidade, não receita): espaços distintos; tutoria; apoio descentralizado; aluno no centro.
 
 ## Quando
 - **Usar:** esquema compartilhado para decidir (fenômeno ou desenho do curso).
@@ -11,9 +12,9 @@ Representação compartilhada, por analogia, de relações que definem um fenôm
 
 ## Conexões
 - [[Modelos de EaD]]
+- [[Gerações da EaD]]
+- [[Gestão de EaD]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
 - [[Mediação Pedagógica]]
 - [[Ambiente Virtual de Aprendizagem]]
-- [[Objeto de Aprendizagem]]
-- [[Tecnologia no Ensino]]
 - [[Abstração]]

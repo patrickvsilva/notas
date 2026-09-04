@@ -14,6 +14,8 @@ No ensino, tecnologia é **interface** (interação, multiplicidade, bidireciona
 ## Conexões
 - [[Mediação Pedagógica]]
 - [[Ambiente Virtual de Aprendizagem]]
+- [[E-learning]]
+- [[Ensino Híbrido]]
 - [[Objeto de Aprendizagem]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
 - [[MBA Engenharia de Software]]

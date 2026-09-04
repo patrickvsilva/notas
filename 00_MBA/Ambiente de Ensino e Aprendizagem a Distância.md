@@ -11,10 +11,10 @@ Identificar conceitos e agentes da EaD; diferenciar modelos e ferramentas tecnol
 | Tema | Capturar depois (nota atômica, se precisar) |
 |---|---|
 | Mediação e papel do professor | [[Mediação Pedagógica]] |
-| Ações docente / discente + ferramentas | [[Tecnologia no Ensino]], [[Ambiente Virtual de Aprendizagem]], [[Objeto de Aprendizagem]] |
+| Ações docente / discente + ferramentas | [[Tecnologia no Ensino]], [[E-learning]], [[Ambiente Virtual de Aprendizagem]], [[Objeto de Aprendizagem]] |
 | Aprendizagem contínua (empresa) | [[Lifelong Learning]] |
-| Modelos de ensino a distância | [[Conceito de Modelo]], [[Modelos de EaD]] (híbrido dos slides ≠ Bacich) |
-| Projeto e gestão de EaD | desenho e operação do curso |
+| Modelos de ensino a distância | [[Conceito de Modelo]], [[Modelos de EaD]], [[Gerações da EaD]], [[Ensino Híbrido]] (híbrido dos slides ≠ Bacich) |
+| Projeto e gestão de EaD | [[Gestão de EaD]] |
 
 ## Datas
 | | Evento | Quando |
@@ -56,3 +56,7 @@ Login na Minha Biblioteca **antes** de abrir o link do livro.
 - [[Lifelong Learning]]
 - [[Conceito de Modelo]]
 - [[Modelos de EaD]]
+- [[Gerações da EaD]]
+- [[Ensino Híbrido]]
+- [[E-learning]]
+- [[Gestão de EaD]]
