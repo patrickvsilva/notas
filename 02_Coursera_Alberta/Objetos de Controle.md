@@ -1,4 +1,4 @@
-Objetos responsáveis pela orquestração, coordenação de tarefas e controle do fluxo de execução entre múltiplos objetos.
+Objetos que orquestram o fluxo entre fronteira e entidade, para que nem a tela nem o domínio coordenem o caso de uso.
 
 ## Características
 - **Descoberta:** Surgem durante a decomposição de objetos grandes no [[Design Técnico]].

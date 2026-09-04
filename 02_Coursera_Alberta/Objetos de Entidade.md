@@ -1,4 +1,4 @@
-Objetos que correspondem a conceitos, regras de negócio e elementos reais do domínio do problema.
+Objetos do domínio: conceitos e regras de negócio que existem mesmo sem UI (*Cliente*, *Fatura*, *Carrinho*). São os primeiros a aparecer nos requisitos.
 
 ## Características
 - **Conhecimento Interno:** Armazenam atributos sobre si mesmos.

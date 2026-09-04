@@ -1,4 +1,4 @@
-Estágio inicial do design focado no **O QUE** o sistema deve fazer, utilizando [[Abstração]] para ignorar detalhes técnicos de implementação.
+Estágio do **o quê**: componentes, responsabilidades e conexões, ainda sem linguagem nem API. Mockups e [[Cartões CRC]] cabem aqui; [[UML]] detalhado fica no [[Design Técnico]].
 
 ## Elementos-Chave
 - **Componentes:** Elementos principais do sistema (ex: tela de busca, módulo de curso).

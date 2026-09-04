@@ -1,4 +1,4 @@
-Categorização fundamental de objetos no [[Design Orientado a Objetos]] (OOD/ECB pattern) que garante flexibilidade, reutilização e manutenibilidade do código.
+Três papéis no OOD (padrão ECB): entidade (domínio), fronteira (mundo externo) e controle (orquestração). Sem os três, o domínio absorve UI e fluxo e o design endurece.
 
 ## Categorias de Objetos
 

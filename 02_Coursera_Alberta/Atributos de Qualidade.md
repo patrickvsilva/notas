@@ -1,4 +1,4 @@
-Propriedades mensuráveis e direcionadores estruturais que definem o quão bem um sistema executa suas funções e evolui ao longo do tempo.
+O quão bem o sistema faz o que faz — desempenho, segurança, manutenibilidade — e o que a arquitetura tem de equilibrar. Não é o “o quê” ([[Requisitos Funcionais]]).
 
 ## Categorização dos Requisitos
 

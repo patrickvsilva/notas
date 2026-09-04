@@ -1,4 +1,4 @@
-Especificações que descrevem **O QUE** a aplicação deve fazer em termos de comportamento e capacidades oferecidas ao usuário.
+O que o sistema deve fazer — comportamentos e capacidades para o usuário (baixar um filme, pagar). A métrica é correção: fez ou não fez.
 
 ## Características
 - **Métrica Primária:** Correção (*Correctness*).

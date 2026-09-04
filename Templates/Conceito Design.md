@@ -1,4 +1,4 @@
-Definição em 1–2 frases: o que é e por que importa.
+Definição em 1–2 frases: o que **é** e por que importa. Quem não foi à aula precisa entender esta linha sozinha.
 
 ## Ideia Central
 - Ponto essencial 1

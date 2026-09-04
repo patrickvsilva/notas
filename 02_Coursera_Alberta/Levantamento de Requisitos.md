@@ -1,4 +1,4 @@
-Fase investigativa inicial e iterativa responsável por descobrir o que o sistema deve fazer antes da codificação.
+Fase em que se descobre o que o sistema deve fazer **antes** de codificar: perguntar, investigar o não-dito, separar funcional de não-funcional. Errar aqui custa barato no papel e caro no código.
 
 ## Importância da Investigação
 - **Ir Além do Dito:** Não consiste apenas em escutar o cliente, mas realizar perguntas investigativas para descobrir requisitos implícitos e restrições não declaradas.

@@ -1,4 +1,4 @@
-Sequência iterativa para transformação de um problema de negócio em código funcional e sustentável.
+Sequência iterativa de um problema de negócio até código: requisitos → design conceitual → design técnico → implementação. Ajustar no papel custa menos do que reescrever código.
 
 ## Estágios do Fluxo
 

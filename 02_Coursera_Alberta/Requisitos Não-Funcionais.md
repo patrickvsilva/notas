@@ -1,4 +1,4 @@
-Especificações que descrevem **COMO BEM** o sistema realiza suas funções (atributos de qualidade, comportamento sob condições específicas e evolução).
+Como bem o sistema faz o que faz: desempenho, segurança, manutenibilidade — não o “o quê”. O funcional sozinho não distingue um sistema de outro; a arquitetura existe por causa disso.
 
 ## Categorias Principais
 - **Métricas de Execução:** [[Desempenho]], uso de memória, tempo de resposta, disponibilidade, [[Segurança]].

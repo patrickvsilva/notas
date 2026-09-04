@@ -8,10 +8,11 @@ alwaysApply: true
 Este repo é um **vault de estudo**, não um app. Instruções completas: `AGENTS.md`.
 
 - Escrever notas e respostas sobre o vault em **pt-BR**.
-- Estilo: atômico, enxuto, `[[wikilinks]]`. Combater excesso de detalhe.
-- Nota nova de conceito: copiar `Templates/Conceito Design.md` (definição → corpo → `## Conexões` com 3–8 links). `## Quando` é opcional.
+- Estilo: atômico, enxuto **e legível**, `[[wikilinks]]`. Combater excesso **e** flashcard opaco.
+- Nota nova de conceito: copiar `Templates/Conceito Design.md`. Primeira linha **define** o conceito (quem não foi à aula entende). Corpo → `## Conexões` (3–8). `## Quando` é opcional.
+- Matemática: `$...$` / `$$...$$`, nunca `\(...\)`.
 - Código só **Java**, e só se esclarecer o conceito.
 - Editar o mínimo; nunca reescrever a nota do zero.
-- Revisão / síntese / formatação de notas de design, UML, arquitetura ou MBA: seguir `.agents/skills/revisor-software-design/SKILL.md`.
+- Revisão / síntese / formatação de notas (qualquer trilha): seguir `.agents/skills/revisor-software-design/SKILL.md`.
 - Não mexer em `.obsidian/plugins/` nem em `workspace.json`.
 - Não commitar sem pedido explícito.

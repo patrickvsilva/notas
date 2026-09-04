@@ -1,4 +1,4 @@
-Pergunta com resposta **sim/não** (verdadeiro/falso, 1/0) — decide qual ramo de um [[Condicional]] seguir.
+Pergunta com resposta **sim/não** (verdadeiro/falso, 1/0). É o teste que o [[Condicional]] e o [[Loop]] usam para decidir se entram no ramo ou repetem.
 
 ## Ideia Central
 - Nome em homenagem a George Boole.

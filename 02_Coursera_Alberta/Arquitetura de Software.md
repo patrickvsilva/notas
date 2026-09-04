@@ -1,4 +1,4 @@
-Visão macro e estrutural do sistema, definindo como múltiplos processos operam e se inter-relacionam.
+Estrutura de alto nível do sistema: como partes grandes (processos, componentes, implantações) se relacionam para cumprir [[Atributos de Qualidade]]. É a planta — o detalhe dos cômodos fica no [[Design de Software]].
 
 ## Responsabilidades Principais
 - **Análise Inicial:** Define a estrutura e comportamento geral a partir dos requisitos de negócio.

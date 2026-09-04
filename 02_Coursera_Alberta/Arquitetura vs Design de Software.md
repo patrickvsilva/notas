@@ -1,4 +1,4 @@
-Distinção essencial entre os níveis de abstração e escopo no desenvolvimento de software.
+Dois níveis do mesmo trabalho: [[Arquitetura de Software]] decide a estrutura do sistema (processos, qualidade, trade-offs); [[Design de Software]] decide a estrutura interna de um processo (classes, responsabilidades, código). Um não substitui o outro.
 
 ## Comparativo Rápido
 

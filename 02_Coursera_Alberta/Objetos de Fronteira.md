@@ -1,4 +1,4 @@
-Objetos situados no limite entre o sistema interno e o mundo externo.
+Objetos na borda do sistema: UI, HTTP, banco, sensores. Isolam o domínio de mudanças de API e de tela.
 
 ## Responsabilidades
 - **Interfaces com Usuário (UI):** Capturar entradas do usuário e exibir dados visuais.

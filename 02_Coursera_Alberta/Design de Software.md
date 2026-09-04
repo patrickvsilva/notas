@@ -1,4 +1,4 @@
-Visão micro e detalhada do software, orientando a estrutura interna operando como um processo único.
+Estrutura interna de um processo de software: componentes, responsabilidades e como viram código. É o detalhe dos cômodos — a planta fica na [[Arquitetura de Software]].
 
 ## Etapas de Elaboração
 1. **[[Levantamento de Requisitos]]:** Investigação e descoberta do problema e restrições.

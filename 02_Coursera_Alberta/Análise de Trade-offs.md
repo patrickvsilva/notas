@@ -1,4 +1,4 @@
-Processo essencial na [[Arquitetura de Software]] para equilibrar atributos de qualidade concorrentes e restrições de negócio.
+Escolha consciente entre [[Atributos de Qualidade]] que puxam em direções opostas (desempenho vs manutenibilidade, qualidade vs prazo). Arquitetura é esse equilíbrio, não maximizar um atributo.
 
 > 💡 *"A qualidade é o principal trabalho do arquiteto: definir o que é qualidade e advogar por ela equilibrando 'Tempo de Mercado' vs 'Perfeição de Código'."*
 

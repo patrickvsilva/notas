@@ -1,4 +1,4 @@
-Estágio detalhado do design focado em **COMO** as responsabilidades dos componentes serão executadas na prática.
+Estágio do **como**: quebra o conceitual até classe, API e diagrama, pronto para código. É aqui que entram fronteira, controle e [[UML]] de classes/sequência/estados.
 
 ## Características
 - **[[Decomposição|Decomposição Gradual]]:** Quebra dos componentes conceituais em subcomponentes menores (funções, classes, módulos) até o nível de granularidade pronto para codificação.

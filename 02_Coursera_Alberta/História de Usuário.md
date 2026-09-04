@@ -1,4 +1,4 @@
-Técnica para expressar um requisito de software em linguagem natural a partir da perspectiva do usuário final.
+Requisito em linguagem natural na voz do usuário: *como [papel], eu quero [objetivo] para que [motivo]*. Alimenta o OOD: substantivos → entidades; verbos → responsabilidades.
 
 ## Estrutura Padrão
 

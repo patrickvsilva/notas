@@ -6,9 +6,9 @@ Idioma das notas e das respostas sobre o vault: **português (pt-BR)**.
 
 ## Objetivo do aluno
 
-Sintetizar com precisão, não acumular aula. Notas atômicas, enxutas, acionáveis, ligadas por `[[wikilinks]]`.
+Sintetizar com precisão, não acumular aula. Notas atômicas, enxutas **e legíveis**, ligadas por `[[wikilinks]]`.
 
-O desafio recorrente é a **paralisia pela importância**: escrever demais por medo de esquecer. O agente combate isso — enxuga, não expande.
+Dois erros: **paralisia pela importância** (escrever demais) e **flashcard ilegível** (telegrafar até ninguém estudar sem a aula). Combater os dois. A primeira linha **define** o conceito.
 
 ## Mapa do vault
 
@@ -42,17 +42,18 @@ Hubs de trilha (não duplicar conteúdo neles; só mapa + pontes):
 
 Partir de `Templates/Conceito Design.md`:
 
-1. Primeira linha: definição em 1–2 frases (o que é e por que importa).
-2. Corpo: bullets ou tabela curta. No máximo **um** exemplo canônico.
-3. `## Quando` — **opcional.** Só se o conceito for decisão de design: **Usar:** 1 linha; **Evitar:** 1 linha. Hubs, vocabulário e definições factuais podem omitir.
+1. Primeira linha: definição em 1–2 frases (o que **é** e por que importa). Gate: quem não foi à aula entende o conceito?
+2. Corpo: bullets ou tabela curta, em frases que explicam o *porquê*. No máximo **um** exemplo canônico.
+3. `## Quando` — **opcional.** Só se o conceito for decisão: **Usar:** 1 linha; **Evitar:** 1 linha. Hubs, vocabulário e definições factuais podem omitir.
 4. `## Conexões` — 3 a 8 `[[links]]` fortes. Hubs podem ter mais; notas atômicas não.
 
 Regras:
 
-- Preferir `[[link]]` a repetir conteúdo de outra nota.
+- Preferir `[[link]]` a repetir conteúdo de outra nota — depois de a própria nota definir o seu conceito.
 - Código **somente Java**, e só se esclarecer o conceito. Sem Python nem outras linguagens.
+- Matemática: `$inline$` e `$$bloco$$`. Não usar `\(...\)`.
 - Diagramas: Mermaid (`classDiagram`, `sequenceDiagram`, `flowchart`) ou UML ASCII curto.
-- **Não** reescrever a nota do zero. Editar o mínimo para aderir ao padrão.
+- **Não** reescrever a nota do zero. Editar o mínimo. Se a abertura não define, reescreva a abertura — não o arquivo.
 - Wikilink usa o nome do arquivo sem `.md`. Alias só quando o texto fluir melhor: `[[Eficiência de Algoritmos|eficiência]]`.
 
 ## Quando o usuário pede revisão
@@ -60,7 +61,7 @@ Regras:
 Ler e seguir `.agents/skills/revisor-software-design/SKILL.md`. Resposta em 4 blocos:
 
 1. Precisão técnica (o que estava certo, depois o erro)
-2. Enxugamento e formato
+2. Legibilidade e formato (a primeira linha define? o corpo dá para estudar sem a aula?)
 3. Prática (trade-off só se a nota já tiver `## Quando` ou se o conceito for claramente uma decisão de design)
 4. 2–4 sugestões de `[[links]]`
 
