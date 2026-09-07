@@ -42,7 +42,7 @@ sequenceDiagram
     end
 ```
 
-Mensagens costumam mapear para **métodos** que você vai implementar.
+Mensagens costumam mapear para **métodos** que você vai implementar. Cenário Alberta (Sharing, adicionar item): [[Estudo de Caso - Sharing Add Item]].
 
 ## Quando
 - **Usar:** planejar/comunicar um fluxo objeto-a-objeto antes de codar; descobrir operações faltando ou problemas de colaboração.
@@ -55,3 +55,4 @@ Mensagens costumam mapear para **métodos** que você vai implementar.
 - [[Cartões CRC]]
 - [[Design Orientado a Objetos]]
 - [[Decomposição]]
+- [[Estudo de Caso - Sharing Add Item]]
