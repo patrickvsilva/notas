@@ -2,9 +2,9 @@ Campo de conhecimento sobre a educação na sua totalidade e diretriz da ação 
 
 ## Ideia Central
 - Senso comum: pedagogia = ensinar criança, porque foi por muito tempo o único curso que formava professores para essa faixa.
-- Pedagogia tradicional: centrada no professor; o estudante é tratado como imaturo demais para decidir o percurso. Usada também com jovens e adultos.
+- Pedagogia tradicional: o professor decide o quê, como, quando e se foi aprendido; o estudante só segue instrução. Esse modelo organizou o sistema escolar e ainda é aplicado a jovens e adultos — o contraste está em [[Andragogia]].
 - Libâneo: ocupa-se da formação escolar e dos métodos, **mas** pensa o processo educativo nas dimensões social, histórica, filosófica e instrumental — daí práticas para instruir e educar em qualquer idade.
-- Desdobramentos para outras faixas e estágios (Litto): [[Andragogia]] (adultos) e [[Heutagogia]] (aprendizagem autônoma, independente da idade).
+- Desdobramentos para outras faixas e estágios (Litto): [[Andragogia]] (adultos) e [[Heutagogia]] (aprendizagem autodeterminada, independente da idade).
 
 ## Quando
 - **Usar:** recortar formação de crianças/adolescentes; ou o campo amplo da educação, não só a sala.

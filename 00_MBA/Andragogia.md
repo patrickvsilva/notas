@@ -1,13 +1,20 @@
-Método de ensino voltado à aprendizagem de **adultos** (Litto). Surge porque a pedagogia tradicional, centrada no professor, não dá conta das diferenças individuais que se manifestam mais em jovens e adultos.
+Modelo de educação de **adultos** (Knowles): o estudante autodirigido aprende a partir da própria experiência e de problemas reais. Importa porque o sistema escolar ainda trata o adulto como na pedagogia tradicional — o professor decide o quê, como, quando e se foi aprendido; o aluno só segue instrução.
 
 ## Ideia Central
-- Desdobramento da [[Pedagogia]]: não substitui o campo; amplia o alcance quando o público não é criança.
-- O adulto traz experiência e maior capacidade de decidir o que aprender — o contrário do estudante “imaturo” da pedagogia tradicional.
-- Na trinca pedagogia / andragogia / [[Heutagogia]], a experiência do aluno importa especialmente na EaD mediada por tecnologia, cujo público é predominantemente adulto.
+- Adulto = maturidade orgânica e psicológica: assume a própria vida (família, trabalho, sociedade) e acumula experiência, que vira o recurso mais rico da aprendizagem — não a experiência do professor.
+- Knowles: o adulto precisa saber **por que** aprender (benefício vs custo de não aprender); quer ser tratado como autodirigido; prontidão ligada a papéis sociais; aplicação **imediata** (não adiada, como na infância).
+- Não se opõe à [[Pedagogia]]: não é “moderno vs ultrapassado”. Explica como se aprende numa fase de vida com papéis sociais e profissionais distintos. [[Heutagogia]] continua o modelo: da aprendizagem autodirigida para a autodeterminada (qualquer idade).
+
+| | Pedagogia tradicional | Andragogia |
+|---|---|---|
+| Experiência | a do aluno vale pouco; a do professor manda | a do adulto é o recurso principal |
+| Vontade | êxito e progressão escolar | utilidade para problemas reais da vida/trabalho |
+| Orientação | conteúdo (tema) | resolução de problemas e tarefas do cotidiano |
+| Motivação | estímulos externos | internos (autoestima, qualidade de vida, satisfação no trabalho); externos também pesam (cargo, promoção) |
 
 ## Quando
-- **Usar:** curso com adultos (este MBA, EaD em geral) em que experiência e diferenças individuais pesam no desenho.
-- **Evitar:** aula em que o professor toma sozinho as decisões de conteúdo, ritmo e método.
+- **Usar:** público adulto (este MBA, EaD) — mostrar o *porquê*, usar a experiência do aluno, orientar a problemas reais.
+- **Evitar:** professor toma sozinho conteúdo, ritmo e avaliação; conteúdo sem aplicação imediata.
 
 ## Conexões
 - [[Pedagogia]]
