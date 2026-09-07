@@ -13,6 +13,7 @@ Efeitos (não o conceito): pertencimento, qualificação, oportunidades, marca e
 
 ## Conexões
 - [[Objeto de Aprendizagem]]
+- [[Heutagogia]]
 - [[Mediação Pedagógica]]
 - [[Tecnologia no Ensino]]
 - [[Ambiente de Ensino e Aprendizagem a Distância]]

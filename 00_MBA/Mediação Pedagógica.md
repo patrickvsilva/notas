@@ -18,6 +18,7 @@ flowchart LR
 
 ## Conexões
 - [[Ambiente de Ensino e Aprendizagem a Distância]]
+- [[Pedagogia]]
 - [[Conceito de Modelo]]
 - [[Modelos de EaD]]
 - [[Tecnologia no Ensino]]

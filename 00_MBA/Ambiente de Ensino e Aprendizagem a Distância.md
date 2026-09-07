@@ -11,6 +11,7 @@ Identificar conceitos e agentes da EaD; diferenciar modelos e ferramentas tecnol
 | Tema | Capturar depois (nota atômica, se precisar) |
 |---|---|
 | Mediação e papel do professor | [[Mediação Pedagógica]] |
+| Pedagogia, andragogia, heutagogia | [[Pedagogia]], [[Andragogia]], [[Heutagogia]] |
 | Ações docente / discente + ferramentas | [[Tecnologia no Ensino]], [[E-learning]], [[Ambiente Virtual de Aprendizagem]], [[Objeto de Aprendizagem]] |
 | Aprendizagem contínua (empresa) | [[Lifelong Learning]] |
 | Modelos de ensino a distância | [[Conceito de Modelo]], [[Modelos de EaD]], [[Gerações da EaD]], [[Ensino Híbrido]] (híbrido dos slides ≠ Bacich) |
@@ -50,6 +51,9 @@ Login na Minha Biblioteca **antes** de abrir o link do livro.
 ## Conexões
 - [[MBA Engenharia de Software]]
 - [[Mediação Pedagógica]]
+- [[Pedagogia]]
+- [[Andragogia]]
+- [[Heutagogia]]
 - [[Tecnologia no Ensino]]
 - [[Ambiente Virtual de Aprendizagem]]
 - [[Objeto de Aprendizagem]]

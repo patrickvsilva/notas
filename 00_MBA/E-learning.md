@@ -8,7 +8,7 @@ Aprendizagem mediada por software/TIC (on-line ou off-line). No Brasil vira sin�
 | M-learning | mobilidade | smartphone, tablet |
 | U-learning | adapta ao contexto do aluno | sensores, geo |
 
-- O próprio recorte admite: a tabela distingue mais a **tecnologia** do que a pedagogia.
+- O próprio recorte admite: a tabela distingue mais a **tecnologia** do que a [[Pedagogia|pedagogia]].
 - Outras derivações (não virar nota): MOOC, microlearning, P/I/T-learning.
 
 ## Quando
